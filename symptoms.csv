@@ -1,0 +1,1001 @@
+Disease,Symptoms
+Influenza #0,leg swelling; fatigue; bruising; halitosis; eye pain; palpitations; polyuria; blood in urine
+Common Cold (acute),loss of appetite; vomiting; swelling; jaundice; gurgling; breast pain; sore throat; sneezing
+Pneumonia (chronic),halitosis; mood swings; blood in urine; confusion
+Bronchitis (chronic),rash; chills; muscle pain; balance problems; lymphadenopathy; swelling; gurgling
+Asthma,recurrent infections; bloating; tinnitus; syncope; weight gain
+Chronic Obstructive Pulmonary Disease,trauma history; bloody cough; menstrual irregularities; recurrent infections
+Tuberculosis,blood in urine; vomiting; frequent infections; menstrual irregularities; cough; stiffness; hallucinations
+COVID-19 (acute),floaters; blocked urine flow; trauma history
+Sinusitis variant 1,trauma history; stiffness; polyuria; vaginal discharge; finger clubbing; blocked urine flow; abdominal pain; difficulty swallowing
+Allergic Rhinitis (acute),chest pain; hair loss; depression; jaundice; heat intolerance; hoarseness
+Otitis Media (chronic),dizziness; finger clubbing; tinnitus; generalized pain; bleeding; edema; breast lump; bloating
+Pharyngitis,fatigue; palpitations; bleeding; tingling
+Tonsillitis,diarrhea; back pain; hallucinations
+Gastroenteritis,pelvic pain; floaters; blocked urine flow; easy bruising
+Gastritis,generalized pain; mood swings; breast pain; dry mouth; gurgling; wheezing; night sweats; edema
+Peptic Ulcer Disease variant 4,numbness; heat intolerance; breast lump
+GERD,palpitations; localized pain; blocked urine flow; ear discharge; eye pain
+Hepatitis A,back pain; blood in urine; diarrhea; severe pain; blocked urine flow; mood swings
+Hepatitis B (acute),burning urination; headache; menstrual irregularities; itching; nasal congestion; constipation; floaters; vomiting
+Hepatitis C,ear discharge; leg swelling; finger clubbing; dry skin; shortness of breath; weakness; halitosis; yellow eyes
+Fatty Liver,loss of appetite; halitosis; insomnia; ear pain
+Cirrhosis (chronic),postmenopausal bleeding; anxiety; ear pain
+Pancreatitis (acute),ear discharge; difficulty swallowing; yellow eyes; bad breath; weight gain; halitosis; dry skin
+Gallstones #23,itching; weight gain; loss of appetite
+Appendicitis (chronic),muscle pain; recurrent infections; sore throat; bloating; slow wound healing; chest pain; loss of appetite
+Irritable Bowel Syndrome (acute),burning urination; frequent infections; halitosis
+Ulcerative Colitis (acute),dry mouth; jaundice; shortness of breath; sore throat
+Crohn's Disease,weakness; loss of appetite; stridor; breast pain; confusion
+Diverticulitis,gurgling; dizziness; hearing loss
+Celiac Disease,bad breath; blood in urine; speech difficulty; dry mouth; abdominal pain; red eye
+Constipation,hoarseness; heat intolerance; fatigue; wheezing; halitosis; slow wound healing; memory loss
+Diarrhea variant 4,floaters; leg swelling; chest pain; headache; balance problems
+Urinary Tract Infection (acute),vision changes; severe pain; abdominal pain; numbness; persistent cough; eye pain
+Pyelonephritis (chronic),nausea; jaundice; cold intolerance
+Kidney Stones,dizziness; loss of appetite; itching; hair loss
+Acute Renal Failure,polyuria; anxiety; persistent cough; jaundice; vaginal discharge; dry skin; confusion; swelling
+Chronic Kidney Disease variant 2,weakness in limb; cold intolerance; blurred vision; diarrhea; frequent infections; generalized pain
+Urinary Incontinence,edema; odor; anxiety
+Benign Prostatic Hyperplasia (acute),ear discharge; blurred vision; red eye; difficulty swallowing; breast lump; urinary frequency; floaters; infertility
+Prostatitis (chronic),wheezing; diarrhea; pale skin; vision changes; easy bruising; muscle pain
+Erectile Dysfunction (chronic),night sweats; severe pain; hearing loss; dizziness; vomiting
+Endometriosis (acute),vomiting; blurred vision; diarrhea
+Polycystic Ovary Syndrome (chronic),stridor; blocked urine flow; lymphadenopathy; loss of appetite; depression; headache; dry mouth; yellow eyes
+Pelvic Inflammatory Disease (acute),constipation; breast lump; burning urination; easy bruising; abnormal vaginal bleeding; vision changes; bloody cough; weakness
+Ovarian Cyst (chronic),dry skin; bruising; burning urination; abdominal pain; excessive thirst
+Ectopic Pregnancy,ear discharge; night sweats; slow wound healing; balance problems; hoarseness; abdominal pain; urinary urgency
+Preeclampsia variant 3 #46,blocked urine flow; bloating; postmenopausal bleeding; itching; excessive thirst; hoarseness; lymphadenopathy
+Gestational Diabetes (chronic),depression; odor; hair loss; heat intolerance; trauma history; leg swelling
+Pneumothorax,chest pain; cold intolerance; slow wound healing; localized pain; rash; runny nose; generalized pain
+Pulmonary Embolism,urinary frequency; urinary urgency; fever; runny nose; weight gain
+Deep Vein Thrombosis,slow wound healing; infertility; dizziness; weight gain; stridor; finger clubbing; chest pain
+Myocardial Infarction (acute),gurgling; confusion; ear discharge
+Angina,breast pain; floaters; urinary frequency; sweating; blocked urine flow; bruising
+Heart Failure variant 2,jaundice; bad breath; insomnia; dry skin; nausea; weakness; night sweats; sweating
+Hypertension (acute),weakness; trauma history; nausea; rash; eye pain; slow wound healing; vision changes
+Hypotension variant 5,cold intolerance; eye pain; breast pain; rash; ear discharge; abnormal vaginal bleeding
+Arrhythmia (chronic),bloating; urinary urgency; blurred vision; redness; trauma history; dry mouth; numbness
+Atrial Fibrillation (chronic),easy bruising; bruising; fatigue; hoarseness; menstrual irregularities; dry skin; headache
+Endocarditis,ear pain; bleeding; ear discharge
+Pericarditis (acute),postmenopausal bleeding; muscle pain; swelling; jaundice
+Rheumatic Heart Disease,fever; tingling; gurgling
+Stroke,sore throat; loss of appetite; vaginal discharge; hallucinations; loss of consciousness; difficulty swallowing
+Transient Ischemic Attack variant 1,depression; easy bruising; lymphadenopathy; burning urination; syncope; menstrual irregularities; stridor
+Migraine (chronic),blurred vision; shortness of breath; floaters
+Tension Headache,pale skin; excessive thirst; vision changes
+Cluster Headache,infertility; loss of consciousness; finger clubbing; breast pain; swelling; bloating; shortness of breath
+Meningitis (chronic),chills; recurrent infections; hair loss; floaters; localized pain
+Encephalitis,vomiting; blurred vision; abdominal pain; joint pain; dry mouth
+Seizure Disorder variant 4,confusion; nausea; menstrual irregularities; bruising; gurgling; urinary frequency
+Epilepsy (acute) #69,yellow eyes; bad breath; chills; syncope
+Multiple Sclerosis (acute),finger clubbing; bloating; confusion; speech difficulty; nasal congestion; bad breath; urinary urgency
+Parkinson's Disease,wheezing; leg swelling; weight gain; back pain; abdominal pain
+Alzheimer's Disease variant 5,muscle pain; sneezing; sore throat; cold intolerance
+Peripheral Neuropathy variant 5,postmenopausal bleeding; edema; syncope; sore throat
+Bell's Palsy variant 2,tingling; tinnitus; abnormal vaginal bleeding; insomnia; postmenopausal bleeding; polyuria; red eye; severe pain
+Guillain-Barre Syndrome,leg swelling; finger clubbing; hair loss; jaundice; acne; pale skin; night sweats
+Osteoarthritis (acute),dizziness; hearing loss; eye pain; acne; bleeding; frequent infections
+Rheumatoid Arthritis variant 1,dry mouth; headache; burning urination; weakness in limb; syncope
+Gout,tinnitus; red eye; palpitations; headache; blocked urine flow
+Osteoporosis (acute),syncope; leg swelling; vomiting; heat intolerance; dry skin
+Scoliosis (acute),pelvic pain; tinnitus; polyuria; anxiety; frequent infections; stridor; fatigue
+Herniated Disc,lymphadenopathy; excessive thirst; edema; nasal congestion; jaundice; cold intolerance
+Sciatica,weakness in limb; night sweats; headache; red eye; abdominal pain; lymphadenopathy
+Sprain/Strain variant 5,persistent cough; nausea; weakness in limb; leg swelling; sore throat
+Fracture,joint pain; loss of consciousness; eye pain
+Systemic Lupus Erythematosus variant 5,confusion; memory loss; heat intolerance; sweating; blood in urine; blocked urine flow
+Psoriasis,pelvic pain; breast lump; bad breath; urinary frequency; trauma history
+Eczema (acute),weakness; frequent infections; acne; leg swelling; yellow eyes; dizziness; diarrhea
+Acne,trauma history; pelvic pain; redness; muscle pain; bloody cough; slow wound healing; cold intolerance
+Cellulitis,yellow eyes; nausea; polyuria; slow wound healing
+Impetigo variant 3,urinary urgency; bruising; edema; generalized pain
+MRSA Infection,menstrual irregularities; loss of appetite; dry skin; loss of consciousness; nausea; bruising; depression; vaginal discharge
+Herpes Simplex (chronic) #92,frequent infections; yellow eyes; loss of appetite; easy bruising; generalized pain; stridor; severe pain; confusion
+Herpes Zoster (Shingles) (chronic),leg swelling; easy bruising; vision changes
+HIV Infection (acute),blood in urine; shortness of breath; bruising; runny nose; ear discharge; urinary frequency; odor
+AIDS (acute),nasal congestion; hoarseness; weight loss; night sweats; syncope; swelling
+Mononucleosis,weakness in limb; odor; mood swings
+Lyme Disease,confusion; palpitations; slow wound healing; urinary frequency; odor; hair loss; loss of appetite; dry skin
+Malaria,night sweats; sweating; runny nose; localized pain; odor; hair loss
+Dengue,bloody cough; eye pain; fatigue; breast lump
+Typhoid Fever variant 1,trauma history; bloody cough; back pain; eye pain; heat intolerance
+Rabies,abnormal vaginal bleeding; gurgling; halitosis; red eye; difficulty swallowing
+Tetanus (chronic),back pain; bruising; lymphadenopathy; halitosis; hearing loss; nasal congestion; blocked urine flow
+Sepsis,excessive thirst; eye pain; tinnitus; odor; redness; bad breath; vaginal discharge; weakness in limb
+Anemia,breast pain; sweating; sneezing; recurrent infections; cold intolerance; weight loss; muscle pain
+Iron Deficiency Anemia (acute),leg swelling; balance problems; blocked urine flow
+Vitamin B12 Deficiency,abdominal pain; persistent cough; memory loss; constipation; redness; nausea; postmenopausal bleeding
+Thalassemia variant 5,rash; red eye; speech difficulty; weight gain
+Hemophilia,vomiting; hoarseness; red eye; urinary urgency; chest pain; breast pain
+Leukemia,menstrual irregularities; weakness in limb; blocked urine flow
+Lymphoma variant 1,pelvic pain; nausea; blocked urine flow; hoarseness
+Melanoma,pale skin; diarrhea; persistent cough
+Breast Cancer,yellow eyes; frequent infections; weight gain; weight loss; palpitations; redness; hearing loss; generalized pain
+Lung Cancer,postmenopausal bleeding; loss of consciousness; hearing loss; red eye
+Colon Cancer (chronic),fever; nausea; shortness of breath; muscle pain; ear discharge; night sweats; anxiety
+Prostate Cancer (acute) #115,cold intolerance; confusion; vision changes; bloating; bad breath; redness; back pain; bleeding
+Cervical Cancer,weakness; back pain; breast pain
+Endometrial Cancer,frequent infections; hair loss; floaters; dizziness; bloating; tingling; dry skin; hallucinations
+Pancreatic Cancer (acute),acne; speech difficulty; excessive thirst
+Bladder Cancer variant 1,persistent cough; weight gain; swelling; vision changes
+Skin Cancer,heat intolerance; burning urination; back pain
+Thyroid Disease variant 2,breast pain; runny nose; easy bruising; nausea; confusion; blood in urine; dizziness
+Hyperthyroidism (acute),mood swings; weakness in limb; halitosis; anxiety; shortness of breath; pelvic pain; hearing loss
+Hypothyroidism variant 5,finger clubbing; pelvic pain; blocked urine flow
+Graves' Disease (acute),gurgling; shortness of breath; burning urination; halitosis; dizziness
+Hashimoto's Thyroiditis variant 5,back pain; wheezing; slow wound healing; acne; abdominal pain
+Adrenal Insufficiency variant 2,stridor; abnormal vaginal bleeding; yellow eyes; weight loss; fatigue; burning urination; mood swings
+Cushing's Syndrome,leg swelling; sore throat; bad breath; severe pain; tinnitus
+Addison's Disease,balance problems; acne; runny nose; lymphadenopathy; weight loss; dizziness; persistent cough; bad breath
+Diabetes Mellitus Type 1,palpitations; swelling; sneezing; fatigue; frequent infections; pale skin
+Diabetes Mellitus Type 2,speech difficulty; menstrual irregularities; mood swings; hearing loss; muscle pain
+Hypoglycemia variant 3,abnormal vaginal bleeding; leg swelling; nasal congestion
+Hyperglycemia variant 5,burning urination; bad breath; weakness; edema; yellow eyes
+Obesity variant 2,constipation; recurrent infections; blocked urine flow; blurred vision; infertility
+Metabolic Syndrome (chronic),eye pain; pelvic pain; urinary frequency; runny nose; tingling; localized pain; blocked urine flow; recurrent infections
+Anxiety Disorder (chronic),rash; recurrent infections; nausea; wheezing; vision changes; blurred vision; cold intolerance
+Major Depressive Disorder,mood swings; swelling; jaundice; abdominal pain
+Bipolar Disorder (chronic),jaundice; slow wound healing; swelling
+Schizophrenia (chronic) #138,red eye; cold intolerance; persistent cough; vision changes; chills
+PTSD (acute),eye pain; urinary urgency; red eye; fatigue; wheezing; burning urination; heat intolerance; blurred vision
+Obsessive Compulsive Disorder,finger clubbing; frequent infections; headache; syncope; easy bruising
+Insomnia (chronic),infertility; blood in urine; speech difficulty; recurrent infections; gurgling; trauma history; sweating; chest pain
+Substance Use Disorder,cold intolerance; trauma history; halitosis; eye pain
+Alcohol Use Disorder,loss of appetite; dizziness; back pain
+Smoking Related Disorder (acute),blood in urine; pelvic pain; insomnia; palpitations; cold intolerance; night sweats; trauma history; red eye
+Osteomyelitis (chronic),blocked urine flow; eye pain; postmenopausal bleeding; syncope; excessive thirst
+Rickets,confusion; blood in urine; menstrual irregularities; pale skin
+Scurvy (chronic),itching; joint pain; bloating; chest pain; stridor; runny nose; tingling; memory loss
+Dehydration (acute),depression; constipation; stiffness; bad breath; loss of consciousness; red eye
+Heat Stroke,heat intolerance; redness; localized pain; numbness
+Hypothermia,constipation; weight loss; syncope; red eye
+Influenza variant 4,persistent cough; eye pain; vomiting; lymphadenopathy
+Common Cold,pale skin; easy bruising; urinary urgency; loss of consciousness; dizziness; anxiety; mood swings; swelling
+Pneumonia (chronic),sweating; persistent cough; loss of consciousness; generalized pain; finger clubbing
+Bronchitis (acute),frequent infections; blood in urine; speech difficulty; hoarseness
+Asthma variant 4,sneezing; frequent infections; weight loss
+Chronic Obstructive Pulmonary Disease variant 1,frequent infections; tingling; chest pain; blood in urine
+Tuberculosis,excessive thirst; blocked urine flow; tinnitus; recurrent infections; anxiety; loss of appetite; heat intolerance
+COVID-19,dizziness; bruising; menstrual irregularities
+Sinusitis (acute),bloody cough; balance problems; confusion; breast lump; odor; excessive thirst; syncope; loss of appetite
+Allergic Rhinitis variant 3,leg swelling; syncope; red eye; tinnitus; severe pain
+Otitis Media #161,urinary urgency; loss of appetite; bad breath; anxiety; finger clubbing; dry mouth; runny nose
+Pharyngitis (acute),blurred vision; weakness in limb; headache; constipation
+Tonsillitis (chronic),night sweats; bleeding; chills; sweating; jaundice; loss of consciousness; hoarseness
+Gastroenteritis variant 2,memory loss; redness; nausea; muscle pain; sneezing
+Gastritis variant 3,anxiety; itching; loss of appetite; acne; bleeding; heat intolerance; hallucinations; vomiting
+Peptic Ulcer Disease variant 1,leg swelling; chills; dry mouth; polyuria; night sweats; slow wound healing; hair loss
+GERD variant 5,cold intolerance; urinary frequency; insomnia; fatigue; chest pain; nausea; leg swelling; odor
+Hepatitis A (acute),stiffness; edema; ear pain; odor; excessive thirst; breast pain; hair loss
+Hepatitis B,chest pain; tingling; acne; mood swings; swelling; leg swelling; bleeding; balance problems
+Hepatitis C,lymphadenopathy; severe pain; infertility; bleeding
+Fatty Liver (acute),syncope; localized pain; headache; sweating; eye pain; breast pain
+Cirrhosis (acute),tinnitus; ear pain; urinary frequency; cold intolerance; weight gain; pale skin
+Pancreatitis,pale skin; wheezing; urinary urgency; infertility; loss of appetite; postmenopausal bleeding; blocked urine flow; speech difficulty
+Gallstones (chronic),abdominal pain; pale skin; back pain; tinnitus; constipation; rash; red eye
+Appendicitis variant 4,weight gain; diarrhea; weakness; swelling
+Irritable Bowel Syndrome (chronic),heat intolerance; breast pain; joint pain; sweating; jaundice; excessive thirst
+Ulcerative Colitis variant 1,pale skin; nasal congestion; postmenopausal bleeding; sweating; tingling; speech difficulty; tinnitus; bruising
+Crohn's Disease (acute),shortness of breath; vomiting; menstrual irregularities; weakness in limb; floaters; back pain
+Diverticulitis (acute),polyuria; burning urination; weakness; redness
+Celiac Disease variant 4,dry skin; edema; trauma history; hearing loss; redness; hallucinations
+Constipation (chronic),abdominal pain; blurred vision; weight loss
+Diarrhea,wheezing; blood in urine; postmenopausal bleeding; infertility; fatigue
+Urinary Tract Infection,weakness; insomnia; depression; nasal congestion; blood in urine; anxiety
+Pyelonephritis #184,syncope; pelvic pain; weakness in limb; red eye; postmenopausal bleeding
+Kidney Stones,itching; hair loss; severe pain; heat intolerance; constipation; loss of appetite; diarrhea
+Acute Renal Failure variant 2,blocked urine flow; frequent infections; urinary frequency; depression; blood in urine; abnormal vaginal bleeding
+Chronic Kidney Disease (chronic),sneezing; cold intolerance; speech difficulty; infertility
+Urinary Incontinence,fatigue; palpitations; weight loss; persistent cough; yellow eyes; recurrent infections; hearing loss
+Benign Prostatic Hyperplasia,floaters; night sweats; cold intolerance; speech difficulty; weight loss; jaundice; heat intolerance
+Prostatitis,sweating; menstrual irregularities; heat intolerance; stridor; bleeding
+Erectile Dysfunction,urinary frequency; weakness in limb; speech difficulty; hallucinations; numbness; loss of consciousness; insomnia
+Endometriosis (acute),hearing loss; shortness of breath; blocked urine flow; yellow eyes; trauma history
+Polycystic Ovary Syndrome,breast pain; polyuria; bruising
+Pelvic Inflammatory Disease variant 5,localized pain; acne; chest pain; dry skin; hearing loss; stiffness; edema; halitosis
+Ovarian Cyst (acute),excessive thirst; difficulty swallowing; bloody cough; weakness; polyuria; balance problems; chills
+Ectopic Pregnancy,acne; bloody cough; hair loss; bad breath; vaginal discharge; weight gain; severe pain
+Preeclampsia (acute),palpitations; excessive thirst; generalized pain; bloating
+Gestational Diabetes (chronic),shortness of breath; eye pain; pale skin; breast pain
+Pneumothorax,breast lump; localized pain; ear pain; weakness in limb
+Pulmonary Embolism,hearing loss; stridor; wheezing; headache; loss of consciousness; weight loss; memory loss
+Deep Vein Thrombosis (chronic),depression; jaundice; slow wound healing; balance problems
+Myocardial Infarction (acute),vaginal discharge; pale skin; sore throat; floaters; hallucinations; urinary frequency; mood swings
+Angina,trauma history; odor; bloody cough; severe pain; leg swelling
+Heart Failure (chronic),stiffness; heat intolerance; balance problems; nasal congestion; joint pain; itching; depression; bleeding
+Hypertension,bleeding; odor; redness; loss of consciousness
+Hypotension,localized pain; loss of consciousness; numbness; pale skin
+Arrhythmia variant 5 #207,urinary urgency; depression; frequent infections; bloody cough; itching; redness
+Atrial Fibrillation,excessive thirst; trauma history; mood swings
+Endocarditis (chronic),menstrual irregularities; urinary urgency; odor; recurrent infections; weight gain; swelling
+Pericarditis (chronic),redness; persistent cough; nausea
+Rheumatic Heart Disease,eye pain; edema; muscle pain; gurgling; balance problems
+Stroke (chronic),sneezing; hallucinations; rash; depression
+Transient Ischemic Attack (chronic),rash; weight loss; abdominal pain; heat intolerance; stridor; dry mouth; back pain; joint pain
+Migraine (acute),easy bruising; confusion; hoarseness
+Tension Headache,difficulty swallowing; weakness; diarrhea; breast lump; yellow eyes; persistent cough; hearing loss; severe pain
+Cluster Headache variant 1,fever; anxiety; sweating; breast lump
+Meningitis (acute),hearing loss; balance problems; edema; sneezing; abnormal vaginal bleeding; redness; jaundice; leg swelling
+Encephalitis,odor; vomiting; edema
+Seizure Disorder,difficulty swallowing; hallucinations; stridor; bloody cough; palpitations; sore throat; breast pain
+Epilepsy (acute),palpitations; menstrual irregularities; halitosis; tingling
+Multiple Sclerosis variant 5,gurgling; swelling; palpitations; cough
+Parkinson's Disease (chronic),insomnia; cold intolerance; abdominal pain; yellow eyes; redness
+Alzheimer's Disease,leg swelling; mood swings; confusion; tingling; weight loss; weakness in limb
+Peripheral Neuropathy,rash; nasal congestion; lymphadenopathy; bloating; yellow eyes; sweating
+Bell's Palsy,floaters; leg swelling; muscle pain; persistent cough; runny nose; cough; stridor; urinary frequency
+Guillain-Barre Syndrome variant 2,insomnia; trauma history; abnormal vaginal bleeding; nasal congestion; sore throat
+Osteoarthritis variant 5,finger clubbing; infertility; vision changes; speech difficulty; jaundice; vomiting; easy bruising
+Rheumatoid Arthritis,runny nose; weight loss; balance problems
+Gout,joint pain; fever; stiffness; pelvic pain; back pain
+Osteoporosis #230,abnormal vaginal bleeding; rash; yellow eyes; bleeding; polyuria; bloody cough
+Scoliosis,cough; stiffness; edema; blood in urine; localized pain; back pain; headache
+Herniated Disc (acute),constipation; tinnitus; bruising; sweating; infertility; severe pain; weakness in limb; loss of consciousness
+Sciatica,localized pain; constipation; finger clubbing; swelling; blocked urine flow
+Sprain/Strain (chronic),hoarseness; weight loss; balance problems; night sweats; floaters; gurgling; cold intolerance
+Fracture,breast pain; generalized pain; anxiety; hearing loss; abnormal vaginal bleeding
+Systemic Lupus Erythematosus,recurrent infections; easy bruising; ear discharge; postmenopausal bleeding; joint pain; severe pain; abnormal vaginal bleeding
+Psoriasis (acute),halitosis; nausea; confusion; red eye; loss of consciousness; blood in urine; syncope
+Eczema (acute),bloating; headache; anxiety; weakness in limb; sneezing; excessive thirst; hallucinations
+Acne (acute),chills; jaundice; memory loss; eye pain
+Cellulitis,severe pain; ear pain; persistent cough
+Impetigo (chronic),numbness; vomiting; speech difficulty; red eye; lymphadenopathy; headache; floaters
+MRSA Infection,speech difficulty; breast pain; floaters; insomnia
+Herpes Simplex,depression; tinnitus; trauma history
+Herpes Zoster (Shingles) (chronic),bloody cough; shortness of breath; menstrual irregularities; muscle pain; fever
+HIV Infection,ear discharge; polyuria; syncope; fatigue; vision changes; urinary urgency; generalized pain; dizziness
+AIDS (chronic),headache; dizziness; hearing loss; palpitations; redness; breast lump; runny nose
+Mononucleosis variant 1,odor; leg swelling; wheezing; breast pain
+Lyme Disease (acute),vaginal discharge; red eye; nausea; severe pain; slow wound healing
+Malaria variant 3,weight loss; edema; urinary urgency; constipation; sore throat; hallucinations; menstrual irregularities
+Dengue (acute),loss of appetite; wheezing; hoarseness; fever; abnormal vaginal bleeding; shortness of breath; bleeding
+Typhoid Fever (chronic),trauma history; bloody cough; mood swings; vision changes; hallucinations; vaginal discharge
+Rabies (acute),joint pain; floaters; urinary urgency; night sweats
+Tetanus #253,nasal congestion; bloody cough; postmenopausal bleeding; bloating; palpitations
+Sepsis (acute),breast pain; heat intolerance; odor; shortness of breath; back pain; ear pain; dizziness; diarrhea
+Anemia variant 4,palpitations; red eye; dry skin; trauma history; loss of consciousness; weakness; joint pain
+Iron Deficiency Anemia,fatigue; infertility; eye pain; difficulty swallowing; mood swings; ear discharge; abnormal vaginal bleeding; bad breath
+Vitamin B12 Deficiency (acute),weight loss; weakness in limb; swelling
+Thalassemia,wheezing; excessive thirst; pale skin; dry skin
+Hemophilia,jaundice; back pain; bleeding; weight gain; slow wound healing; memory loss; hoarseness; breast lump
+Leukemia (acute),itching; headache; depression; dry mouth; stridor
+Lymphoma (acute),acne; trauma history; vision changes; depression
+Melanoma variant 5,weakness; urinary urgency; leg swelling; easy bruising; vaginal discharge; halitosis
+Breast Cancer (acute),pale skin; generalized pain; breast pain; breast lump; night sweats; bleeding; vaginal discharge
+Lung Cancer (acute),abnormal vaginal bleeding; hallucinations; hearing loss; back pain
+Colon Cancer (chronic),bleeding; loss of consciousness; weight gain; lymphadenopathy
+Prostate Cancer,headache; depression; breast lump; breast pain; confusion; weight loss
+Cervical Cancer,joint pain; muscle pain; ear pain; yellow eyes; leg swelling; nausea
+Endometrial Cancer,blocked urine flow; vomiting; hallucinations; bloody cough; nasal congestion; weakness
+Pancreatic Cancer,vaginal discharge; trauma history; cold intolerance; fatigue; syncope
+Bladder Cancer (chronic),recurrent infections; postmenopausal bleeding; dry mouth; bloody cough
+Skin Cancer (chronic),depression; ear discharge; balance problems; ear pain; yellow eyes; bleeding; cough; nasal congestion
+Thyroid Disease (acute),constipation; gurgling; abnormal vaginal bleeding; balance problems; joint pain; generalized pain; cold intolerance; loss of consciousness
+Hyperthyroidism,menstrual irregularities; back pain; anxiety; jaundice
+Hypothyroidism,vaginal discharge; tinnitus; hallucinations; edema; burning urination
+Graves' Disease variant 5,stiffness; blood in urine; speech difficulty; tingling; tinnitus
+Hashimoto's Thyroiditis #276,recurrent infections; bloody cough; hearing loss
+Adrenal Insufficiency,ear pain; blocked urine flow; pale skin; breast lump; fatigue
+Cushing's Syndrome (chronic),hoarseness; stridor; weight gain; shortness of breath; stiffness; anxiety; polyuria
+Addison's Disease (acute),bloody cough; breast pain; swelling; night sweats; sneezing; yellow eyes; difficulty swallowing
+Diabetes Mellitus Type 1,insomnia; joint pain; tingling; anxiety; edema; severe pain
+Diabetes Mellitus Type 2 (acute),muscle pain; postmenopausal bleeding; numbness; bloody cough; leg swelling
+Hypoglycemia variant 2,numbness; floaters; chills; wheezing; frequent infections; burning urination; weight loss; bloody cough
+Hyperglycemia,numbness; runny nose; mood swings; leg swelling; headache; confusion; palpitations
+Obesity (chronic),easy bruising; weakness; postmenopausal bleeding
+Metabolic Syndrome,breast lump; weight loss; acne
+Anxiety Disorder,dizziness; loss of consciousness; night sweats; cough
+Major Depressive Disorder,weakness in limb; floaters; blocked urine flow; headache
+Bipolar Disorder,finger clubbing; easy bruising; heat intolerance; balance problems; slow wound healing; numbness; shortness of breath
+Schizophrenia (chronic),hallucinations; anxiety; breast lump
+PTSD,shortness of breath; confusion; bloody cough
+Obsessive Compulsive Disorder (acute),hallucinations; redness; shortness of breath; weakness in limb; generalized pain
+Insomnia,blurred vision; lymphadenopathy; sore throat; abdominal pain; diarrhea; confusion; night sweats; back pain
+Substance Use Disorder,hair loss; confusion; muscle pain; burning urination
+Alcohol Use Disorder (chronic),frequent infections; menstrual irregularities; nausea; blocked urine flow; infertility
+Smoking Related Disorder,insomnia; joint pain; generalized pain; hoarseness; bleeding; severe pain
+Osteomyelitis variant 3,edema; postmenopausal bleeding; palpitations
+Rickets,infertility; vaginal discharge; anxiety
+Scurvy,headache; finger clubbing; cough; generalized pain; chills; nausea
+Dehydration (chronic) #299,blurred vision; leg swelling; halitosis; yellow eyes; insomnia; diarrhea
+Heat Stroke,fatigue; difficulty swallowing; ear discharge; localized pain; insomnia; hearing loss; rash
+Hypothermia variant 3,syncope; severe pain; itching
+Influenza,insomnia; slow wound healing; palpitations; sore throat; pale skin; shortness of breath; ear pain
+Common Cold,weight gain; abnormal vaginal bleeding; persistent cough; menstrual irregularities; syncope; bleeding; sweating
+Pneumonia (chronic),back pain; insomnia; pelvic pain; trauma history; mood swings; yellow eyes; abnormal vaginal bleeding
+Bronchitis,weight loss; frequent infections; localized pain; bloody cough; nausea; weakness in limb; gurgling; urinary urgency
+Asthma variant 5,diarrhea; blurred vision; difficulty swallowing
+Chronic Obstructive Pulmonary Disease (chronic),urinary frequency; cold intolerance; odor
+Tuberculosis (acute),dry skin; menstrual irregularities; bad breath; jaundice; chest pain; finger clubbing; rash
+COVID-19,numbness; difficulty swallowing; burning urination; anxiety; vaginal discharge; blurred vision
+Sinusitis (chronic),severe pain; polyuria; slow wound healing; vaginal discharge
+Allergic Rhinitis,odor; hair loss; swelling
+Otitis Media,persistent cough; syncope; nausea; rash
+Pharyngitis (acute),vaginal discharge; persistent cough; halitosis; finger clubbing
+Tonsillitis,stridor; pelvic pain; pale skin; blood in urine
+Gastroenteritis (chronic),vomiting; fever; bruising
+Gastritis,blood in urine; postmenopausal bleeding; rash; abdominal pain; loss of appetite; vomiting
+Peptic Ulcer Disease variant 5,blurred vision; red eye; depression; speech difficulty
+GERD (acute),abdominal pain; chest pain; vomiting; burning urination; anxiety; dry skin
+Hepatitis A,halitosis; jaundice; pelvic pain; cough; swelling; breast lump; bad breath
+Hepatitis B (chronic),bloody cough; depression; joint pain
+Hepatitis C (acute),memory loss; chills; severe pain; vaginal discharge; weight loss; rash; bleeding
+Fatty Liver variant 5 #322,tingling; weight gain; dizziness; chills; blurred vision
+Cirrhosis,breast pain; bleeding; balance problems; halitosis; syncope
+Pancreatitis variant 2,muscle pain; joint pain; bloody cough; acne; tingling
+Gallstones variant 1,heat intolerance; sneezing; floaters; abdominal pain; weight loss; bleeding; fever
+Appendicitis,yellow eyes; hair loss; vaginal discharge; recurrent infections; eye pain; blurred vision
+Irritable Bowel Syndrome,dry skin; weight loss; bleeding; jaundice; cold intolerance; localized pain; sneezing; balance problems
+Ulcerative Colitis,sore throat; menstrual irregularities; pale skin; swelling; stridor
+Crohn's Disease,finger clubbing; numbness; excessive thirst; halitosis; joint pain; jaundice; vaginal discharge; itching
+Diverticulitis (acute),blood in urine; bloating; insomnia; sneezing; dry mouth; mood swings
+Celiac Disease,severe pain; odor; anxiety; chest pain
+Constipation variant 4,tinnitus; loss of consciousness; ear pain; eye pain; recurrent infections; swelling; localized pain; dizziness
+Diarrhea (chronic),trauma history; tingling; weight loss; finger clubbing; bleeding; back pain
+Urinary Tract Infection,slow wound healing; night sweats; persistent cough; vision changes; frequent infections
+Pyelonephritis,syncope; red eye; dry skin; balance problems; polyuria; infertility
+Kidney Stones (chronic),weakness in limb; localized pain; breast pain; mood swings; palpitations; frequent infections; blood in urine
+Acute Renal Failure,lymphadenopathy; hallucinations; dry skin; finger clubbing; nausea; abdominal pain; odor; joint pain
+Chronic Kidney Disease variant 2,easy bruising; burning urination; chills; leg swelling; heat intolerance; fatigue; insomnia; trauma history
+Urinary Incontinence,infertility; abnormal vaginal bleeding; yellow eyes; frequent infections; blurred vision; abdominal pain; cough; diarrhea
+Benign Prostatic Hyperplasia (chronic),hoarseness; speech difficulty; gurgling; memory loss; depression
+Prostatitis,localized pain; excessive thirst; hoarseness; red eye; blocked urine flow; menstrual irregularities; tinnitus
+Erectile Dysfunction (acute),dry mouth; localized pain; weakness in limb; night sweats; urinary urgency; chest pain; balance problems; abdominal pain
+Endometriosis (chronic),breast pain; nausea; bloating; wheezing; weight gain
+Polycystic Ovary Syndrome variant 5,bruising; urinary frequency; floaters; halitosis; ear pain
+Pelvic Inflammatory Disease #345,balance problems; urinary urgency; hearing loss; diarrhea; eye pain; bloody cough; generalized pain
+Ovarian Cyst (chronic),pale skin; dizziness; bleeding; fatigue; lymphadenopathy; loss of consciousness
+Ectopic Pregnancy variant 2,shortness of breath; urinary frequency; leg swelling
+Preeclampsia variant 2,trauma history; recurrent infections; chills
+Gestational Diabetes,joint pain; memory loss; sore throat; anxiety; sweating; yellow eyes; depression; vision changes
+Pneumothorax (chronic),difficulty swallowing; recurrent infections; infertility; acne; runny nose; finger clubbing
+Pulmonary Embolism,blurred vision; menstrual irregularities; chest pain; stridor; heat intolerance; sneezing; red eye; dry mouth
+Deep Vein Thrombosis,pelvic pain; fever; loss of consciousness; ear discharge; ear pain; itching
+Myocardial Infarction (acute),lymphadenopathy; frequent infections; dizziness; excessive thirst; abdominal pain; recurrent infections; hallucinations; runny nose
+Angina,jaundice; sneezing; floaters; bloating; stiffness
+Heart Failure (chronic),numbness; confusion; finger clubbing; pale skin; dry skin; pelvic pain; heat intolerance; menstrual irregularities
+Hypertension (chronic),bloating; urinary urgency; burning urination; floaters; hair loss; sore throat; trauma history
+Hypotension,recurrent infections; bleeding; heat intolerance; dry mouth; nausea; trauma history; weight loss; pale skin
+Arrhythmia (acute),back pain; bruising; bloating
+Atrial Fibrillation (acute),blocked urine flow; localized pain; weight gain; speech difficulty
+Endocarditis,breast pain; dry skin; weight loss; excessive thirst; pelvic pain; vision changes
+Pericarditis,numbness; finger clubbing; hallucinations; localized pain
+Rheumatic Heart Disease,sore throat; depression; chills; numbness; redness; weight loss; runny nose; pale skin
+Stroke variant 5,hair loss; weakness; burning urination; cough; numbness; weight loss
+Transient Ischemic Attack (chronic),pelvic pain; depression; weakness in limb; edema
+Migraine,breast lump; severe pain; numbness; breast pain; loss of consciousness; eye pain
+Tension Headache variant 2,chills; nausea; insomnia; chest pain; frequent infections; postmenopausal bleeding
+Cluster Headache (acute),swelling; palpitations; itching; hoarseness
+Meningitis #368,redness; chills; bad breath; floaters; insomnia; gurgling; odor
+Encephalitis,anxiety; speech difficulty; bloating; excessive thirst; rash; bad breath
+Seizure Disorder,blood in urine; mood swings; abnormal vaginal bleeding; fatigue; postmenopausal bleeding; bloody cough; eye pain
+Epilepsy,ear discharge; vision changes; abdominal pain; stridor; edema; abnormal vaginal bleeding; joint pain
+Multiple Sclerosis,palpitations; red eye; stiffness; urinary urgency; vomiting
+Parkinson's Disease (chronic),constipation; bad breath; lymphadenopathy; back pain; ear pain; stridor
+Alzheimer's Disease,localized pain; urinary urgency; loss of consciousness; heat intolerance; acne; vision changes; chills
+Peripheral Neuropathy,weight loss; halitosis; ear pain; lymphadenopathy; headache; insomnia; urinary urgency
+Bell's Palsy variant 5,itching; dry skin; hallucinations; chills; jaundice; loss of consciousness; swelling
+Guillain-Barre Syndrome (chronic),excessive thirst; rash; speech difficulty; trauma history; diarrhea
+Osteoarthritis,abnormal vaginal bleeding; halitosis; breast lump; headache
+Rheumatoid Arthritis variant 4,edema; loss of appetite; generalized pain; joint pain; weight gain
+Gout,jaundice; joint pain; postmenopausal bleeding; trauma history; menstrual irregularities; numbness; weight gain; excessive thirst
+Osteoporosis,rash; acne; breast pain; vaginal discharge; red eye; syncope; finger clubbing; frequent infections
+Scoliosis,infertility; speech difficulty; gurgling
+Herniated Disc,localized pain; blocked urine flow; floaters; numbness; jaundice
+Sciatica,fever; bad breath; wheezing; vomiting; floaters; finger clubbing; easy bruising
+Sprain/Strain,burning urination; dizziness; frequent infections; hallucinations; menstrual irregularities; ear discharge; vision changes; tingling
+Fracture,jaundice; redness; urinary frequency; anxiety; excessive thirst
+Systemic Lupus Erythematosus variant 5,insomnia; numbness; halitosis; urinary frequency
+Psoriasis variant 2,postmenopausal bleeding; weakness; fatigue; diarrhea; acne; halitosis; floaters; shortness of breath
+Eczema,sweating; eye pain; floaters
+Acne variant 3,vision changes; sneezing; localized pain
+Cellulitis #391,edema; bleeding; sweating; itching
+Impetigo,edema; blood in urine; muscle pain
+MRSA Infection (chronic),blocked urine flow; easy bruising; edema
+Herpes Simplex,weakness; menstrual irregularities; acne; bruising
+Herpes Zoster (Shingles) variant 2,generalized pain; abnormal vaginal bleeding; difficulty swallowing; vision changes; edema; vomiting; loss of consciousness; diarrhea
+HIV Infection (chronic),ear discharge; balance problems; syncope
+AIDS (acute),dry mouth; hoarseness; memory loss; severe pain
+Mononucleosis (chronic),cough; generalized pain; urinary frequency; constipation; vision changes; localized pain
+Lyme Disease (chronic),balance problems; syncope; difficulty swallowing; pelvic pain
+Malaria (chronic),wheezing; lymphadenopathy; abdominal pain
+Dengue,pale skin; blocked urine flow; bleeding
+Typhoid Fever (acute),vaginal discharge; bad breath; abnormal vaginal bleeding; weight loss
+Rabies (chronic),trauma history; weight gain; dizziness; confusion; insomnia; cough; heat intolerance; edema
+Tetanus,eye pain; urinary urgency; bloody cough; ear discharge
+Sepsis,gurgling; night sweats; breast lump; heat intolerance; severe pain; eye pain; ear discharge; vomiting
+Anemia (acute),weight loss; abnormal vaginal bleeding; constipation
+Iron Deficiency Anemia variant 5,wheezing; pelvic pain; urinary urgency; vision changes; pale skin; frequent infections; weight loss
+Vitamin B12 Deficiency variant 1,itching; leg swelling; nausea; joint pain
+Thalassemia (chronic),dry skin; bloody cough; cold intolerance; redness; bad breath; localized pain; chest pain
+Hemophilia variant 5,bleeding; ear pain; memory loss; cold intolerance; speech difficulty; nasal congestion; gurgling; menstrual irregularities
+Leukemia,leg swelling; weakness; halitosis; frequent infections; back pain
+Lymphoma (acute),pelvic pain; bloating; back pain; tingling; finger clubbing; dry skin
+Melanoma,confusion; cough; blood in urine
+Breast Cancer #414,loss of appetite; pelvic pain; insomnia; breast pain; blood in urine
+Lung Cancer variant 3,severe pain; sore throat; postmenopausal bleeding; hearing loss; odor; syncope; shortness of breath
+Colon Cancer (chronic),dizziness; cough; stiffness; ear discharge; fatigue; headache; frequent infections
+Prostate Cancer variant 4,weakness in limb; redness; acne; persistent cough; odor; breast pain
+Cervical Cancer variant 5,generalized pain; infertility; nausea; finger clubbing; hallucinations; heat intolerance
+Endometrial Cancer,itching; nausea; bruising; speech difficulty
+Pancreatic Cancer,lymphadenopathy; night sweats; hallucinations; jaundice
+Bladder Cancer variant 3,dry mouth; finger clubbing; postmenopausal bleeding; edema; severe pain; leg swelling
+Skin Cancer variant 1,bruising; generalized pain; blurred vision
+Thyroid Disease variant 4,back pain; headache; joint pain; vomiting; blurred vision; bloating; floaters; heat intolerance
+Hyperthyroidism,headache; bruising; easy bruising; stridor; slow wound healing; sore throat; constipation
+Hypothyroidism,loss of consciousness; weight loss; generalized pain
+Graves' Disease,sweating; tingling; urinary urgency
+Hashimoto's Thyroiditis,memory loss; halitosis; bloody cough; stiffness; chills; blocked urine flow; loss of appetite
+Adrenal Insufficiency variant 4,bad breath; rash; wheezing; constipation; odor; chest pain; yellow eyes; lymphadenopathy
+Cushing's Syndrome,rash; confusion; dizziness; stiffness; persistent cough; excessive thirst
+Addison's Disease,syncope; tingling; floaters; speech difficulty; blood in urine; headache; insomnia; chills
+Diabetes Mellitus Type 1 (acute),sweating; muscle pain; odor; abdominal pain; excessive thirst
+Diabetes Mellitus Type 2 variant 4,bloody cough; bloating; difficulty swallowing; stridor; speech difficulty; fever; fatigue; cough
+Hypoglycemia (chronic),fatigue; hearing loss; blood in urine; pelvic pain
+Hyperglycemia (chronic),sore throat; palpitations; anxiety; recurrent infections
+Obesity (chronic),stridor; edema; breast pain; hoarseness; jaundice; joint pain; bloody cough; pale skin
+Metabolic Syndrome variant 3,syncope; excessive thirst; blocked urine flow; constipation; weakness in limb
+Anxiety Disorder #437,weakness; sore throat; hoarseness; recurrent infections; memory loss; fatigue; infertility; dizziness
+Major Depressive Disorder variant 4,redness; bad breath; bruising; jaundice; vomiting; anxiety
+Bipolar Disorder (chronic),cough; blocked urine flow; sneezing; swelling; insomnia; halitosis
+Schizophrenia (acute),stridor; hair loss; joint pain; tinnitus; blocked urine flow
+PTSD (acute),tingling; odor; bad breath; sneezing; wheezing; mood swings; postmenopausal bleeding
+Obsessive Compulsive Disorder variant 3,night sweats; fever; breast lump; chest pain
+Insomnia (chronic),mood swings; urinary urgency; finger clubbing; localized pain
+Substance Use Disorder (acute),yellow eyes; fever; postmenopausal bleeding
+Alcohol Use Disorder,vaginal discharge; stridor; wheezing; bruising; abdominal pain; ear pain; confusion; back pain
+Smoking Related Disorder (acute),numbness; headache; weight gain; persistent cough; itching; vomiting
+Osteomyelitis (acute),difficulty swallowing; memory loss; breast lump
+Rickets (chronic),blocked urine flow; floaters; gurgling; nausea; polyuria; diarrhea; weakness in limb; weight loss
+Scurvy,menstrual irregularities; syncope; dry mouth; insomnia; headache; blurred vision; slow wound healing; loss of appetite
+Dehydration,swelling; stiffness; pale skin; recurrent infections
+Heat Stroke (chronic),generalized pain; stridor; jaundice; pale skin; red eye; rash
+Hypothermia variant 1,syncope; sneezing; weight loss; bad breath
+Influenza,abdominal pain; night sweats; chills; red eye; tinnitus; pale skin; breast lump
+Common Cold (chronic),hallucinations; burning urination; odor
+Pneumonia,red eye; bruising; tinnitus; stiffness
+Bronchitis,vomiting; sweating; lymphadenopathy
+Asthma (acute),bleeding; loss of consciousness; generalized pain; cold intolerance; fatigue; ear discharge; jaundice; weight gain
+Chronic Obstructive Pulmonary Disease,persistent cough; joint pain; burning urination
+Tuberculosis,speech difficulty; weakness; trauma history; bleeding; stiffness; sore throat
+COVID-19 (acute) #460,infertility; red eye; depression
+Sinusitis,anxiety; joint pain; diarrhea; tinnitus; abdominal pain; recurrent infections; frequent infections; weight loss
+Allergic Rhinitis,cough; headache; bad breath
+Otitis Media (acute),loss of appetite; sneezing; infertility; blocked urine flow
+Pharyngitis (acute),acne; leg swelling; nausea; polyuria; dry mouth; stiffness; syncope; shortness of breath
+Tonsillitis (chronic),sneezing; leg swelling; eye pain
+Gastroenteritis,vomiting; lymphadenopathy; yellow eyes; constipation
+Gastritis,tinnitus; weakness; chills
+Peptic Ulcer Disease variant 2,blurred vision; bloody cough; menstrual irregularities; tingling; chest pain; vaginal discharge; severe pain
+GERD (acute),sore throat; burning urination; ear discharge; runny nose; itching; red eye
+Hepatitis A,palpitations; heat intolerance; hair loss; joint pain
+Hepatitis B,swelling; tingling; breast lump; anxiety; balance problems; headache; vomiting; itching
+Hepatitis C (acute),weight loss; breast pain; sneezing; leg swelling; recurrent infections; confusion
+Fatty Liver,acne; recurrent infections; mood swings; frequent infections
+Cirrhosis,vaginal discharge; halitosis; persistent cough
+Pancreatitis,balance problems; mood swings; halitosis; numbness; urinary urgency
+Gallstones (acute),weakness in limb; jaundice; pelvic pain; rash; runny nose; chest pain; pale skin
+Appendicitis,hoarseness; chest pain; lymphadenopathy; bad breath; itching; headache; hearing loss
+Irritable Bowel Syndrome,burning urination; odor; polyuria; difficulty swallowing; sweating; diarrhea; joint pain
+Ulcerative Colitis (chronic),back pain; rash; hallucinations; frequent infections; stridor; headache; postmenopausal bleeding; hoarseness
+Crohn's Disease variant 3,recurrent infections; pelvic pain; burning urination; sore throat; back pain; dry mouth; pale skin
+Diverticulitis (acute),generalized pain; burning urination; dry mouth; chest pain; loss of consciousness; insomnia; weight gain; nasal congestion
+Celiac Disease,mood swings; bruising; sore throat; numbness; palpitations; vomiting
+Constipation (acute) #483,difficulty swallowing; cold intolerance; hoarseness
+Diarrhea variant 4,confusion; balance problems; fever
+Urinary Tract Infection (acute),heat intolerance; sneezing; lymphadenopathy; loss of appetite; urinary frequency
+Pyelonephritis,sore throat; recurrent infections; jaundice; headache; shortness of breath; weight gain; dry mouth; loss of consciousness
+Kidney Stones,bad breath; bloating; confusion; blood in urine
+Acute Renal Failure,blocked urine flow; loss of consciousness; slow wound healing
+Chronic Kidney Disease,dry mouth; diarrhea; urinary frequency; bleeding; jaundice; weight loss
+Urinary Incontinence variant 5,wheezing; blurred vision; frequent infections; finger clubbing
+Benign Prostatic Hyperplasia,edema; pale skin; sore throat; loss of consciousness; depression; localized pain
+Prostatitis (chronic),halitosis; burning urination; hoarseness; easy bruising; dry mouth; sore throat; vaginal discharge
+Erectile Dysfunction,wheezing; localized pain; swelling; loss of appetite; sore throat
+Endometriosis variant 4,fever; generalized pain; excessive thirst; menstrual irregularities; odor; insomnia; palpitations; runny nose
+Polycystic Ovary Syndrome variant 5,pale skin; lymphadenopathy; heat intolerance; hoarseness; finger clubbing; insomnia; abdominal pain
+Pelvic Inflammatory Disease (chronic),weight gain; yellow eyes; gurgling; syncope; back pain; urinary urgency
+Ovarian Cyst,chills; finger clubbing; vomiting; loss of consciousness; easy bruising
+Ectopic Pregnancy,wheezing; yellow eyes; red eye; cough; stiffness; ear pain; joint pain; localized pain
+Preeclampsia (acute),urinary urgency; muscle pain; halitosis
+Gestational Diabetes,bloody cough; fever; weakness
+Pneumothorax (chronic),eye pain; wheezing; breast pain; chills; breast lump; tingling
+Pulmonary Embolism variant 5,urinary urgency; mood swings; vaginal discharge; diarrhea; balance problems; halitosis
+Deep Vein Thrombosis,edema; postmenopausal bleeding; severe pain; hoarseness; sweating; red eye; syncope
+Myocardial Infarction (chronic),swelling; shortness of breath; pale skin
+Angina variant 3,abdominal pain; syncope; urinary frequency; chills; vaginal discharge
+Heart Failure (chronic) #506,wheezing; syncope; anxiety; vomiting
+Hypertension (chronic),dry skin; heat intolerance; balance problems; loss of consciousness; chest pain
+Hypotension,edema; chills; cold intolerance; blurred vision; sweating; weakness
+Arrhythmia (chronic),yellow eyes; ear pain; nasal congestion
+Atrial Fibrillation,generalized pain; anxiety; bloody cough; wheezing; mood swings; stiffness
+Endocarditis,redness; bleeding; back pain; diarrhea; weakness; menstrual irregularities; excessive thirst; anxiety
+Pericarditis (chronic),night sweats; weakness; blood in urine; fever; vision changes; vomiting
+Rheumatic Heart Disease (acute),slow wound healing; acne; dry skin; balance problems; sneezing
+Stroke,chest pain; ear pain; chills
+Transient Ischemic Attack (acute),swelling; nausea; hearing loss; bloating; bruising; halitosis; menstrual irregularities; numbness
+Migraine,stiffness; vomiting; leg swelling; mood swings; pelvic pain; runny nose; blocked urine flow; vaginal discharge
+Tension Headache variant 2,runny nose; red eye; fatigue; stiffness; eye pain
+Cluster Headache,stiffness; hoarseness; rash; insomnia; headache; night sweats
+Meningitis,easy bruising; diarrhea; nausea; urinary urgency; lymphadenopathy; mood swings; breast lump; abnormal vaginal bleeding
+Encephalitis variant 1,difficulty swallowing; anxiety; headache; pelvic pain; memory loss; breast pain; hallucinations
+Seizure Disorder (acute),hearing loss; excessive thirst; back pain; bleeding; nausea; menstrual irregularities; persistent cough; palpitations
+Epilepsy (chronic),excessive thirst; memory loss; recurrent infections; trauma history; hair loss; weight gain; constipation
+Multiple Sclerosis,sore throat; chills; ear discharge; lymphadenopathy; nasal congestion; loss of appetite
+Parkinson's Disease (chronic),vision changes; nausea; severe pain
+Alzheimer's Disease,sneezing; acne; weight gain; dry skin; stiffness; pale skin
+Peripheral Neuropathy variant 5,lymphadenopathy; dizziness; vomiting; pelvic pain; depression; menstrual irregularities; anxiety; jaundice
+Bell's Palsy (chronic),memory loss; floaters; cough; halitosis; generalized pain
+Guillain-Barre Syndrome,dry mouth; memory loss; halitosis; breast pain; bloating; night sweats; weight gain
+Osteoarthritis #529,dry mouth; polyuria; postmenopausal bleeding; diarrhea; abdominal pain; insomnia; bad breath
+Rheumatoid Arthritis (chronic),halitosis; redness; hallucinations
+Gout variant 3,breast lump; stiffness; pelvic pain; edema; numbness
+Osteoporosis (chronic),cold intolerance; hearing loss; palpitations; sore throat; itching; infertility; weight gain
+Scoliosis (acute),cold intolerance; severe pain; localized pain; infertility; palpitations; menstrual irregularities; yellow eyes
+Herniated Disc (chronic),back pain; weakness; gurgling; hearing loss; rash; blocked urine flow; shortness of breath; urinary frequency
+Sciatica (acute),bruising; itching; numbness; generalized pain; severe pain
+Sprain/Strain variant 2,difficulty swallowing; weight loss; bleeding
+Fracture (chronic),eye pain; bad breath; jaundice; rash; wheezing; breast pain; cold intolerance; leg swelling
+Systemic Lupus Erythematosus,nasal congestion; eye pain; ear discharge
+Psoriasis (chronic),stridor; numbness; postmenopausal bleeding; memory loss; blocked urine flow; headache
+Eczema,frequent infections; sweating; dizziness; bruising; loss of consciousness; weakness in limb; infertility
+Acne,bad breath; confusion; insomnia; chest pain
+Cellulitis,nasal congestion; sneezing; headache; joint pain
+Impetigo,floaters; weakness; blood in urine
+MRSA Infection,sneezing; itching; blocked urine flow; tinnitus; weakness in limb; menstrual irregularities; finger clubbing; constipation
+Herpes Simplex (chronic),chest pain; back pain; blocked urine flow; numbness; dry skin; red eye; sore throat; hearing loss
+Herpes Zoster (Shingles) variant 3,anxiety; urinary urgency; sweating; stiffness; gurgling; localized pain; vomiting
+HIV Infection (acute),chest pain; pelvic pain; weakness; sweating; excessive thirst
+AIDS variant 3,hoarseness; leg swelling; trauma history; ear pain
+Mononucleosis (acute),edema; breast lump; speech difficulty; shortness of breath; bad breath
+Lyme Disease (acute),cough; hearing loss; loss of appetite; leg swelling; sore throat; dry skin; recurrent infections; hoarseness
+Malaria (chronic),cold intolerance; lymphadenopathy; bruising; persistent cough; loss of consciousness
+Dengue #552,itching; vision changes; vaginal discharge; urinary urgency; floaters; muscle pain; ear discharge; tinnitus
+Typhoid Fever,trauma history; memory loss; hair loss; menstrual irregularities; polyuria
+Rabies,fever; speech difficulty; slow wound healing
+Tetanus (acute),depression; leg swelling; dry skin; cold intolerance; redness
+Sepsis (acute),severe pain; abdominal pain; balance problems; dizziness; urinary frequency
+Anemia (chronic),finger clubbing; jaundice; itching; stiffness; edema
+Iron Deficiency Anemia variant 3,edema; bleeding; nasal congestion; night sweats; memory loss; postmenopausal bleeding; back pain; headache
+Vitamin B12 Deficiency (chronic),infertility; slow wound healing; pale skin; severe pain; weight loss; bloody cough; chest pain
+Thalassemia (acute),tingling; swelling; stiffness; breast pain; infertility; pelvic pain; stridor; palpitations
+Hemophilia,loss of consciousness; excessive thirst; nasal congestion; urinary frequency; bloody cough; persistent cough; hoarseness
+Leukemia variant 1,hallucinations; finger clubbing; halitosis; hearing loss; easy bruising; burning urination; weakness in limb; bleeding
+Lymphoma variant 1,slow wound healing; depression; runny nose; swelling
+Melanoma,hearing loss; loss of appetite; stridor
+Breast Cancer,bloody cough; lymphadenopathy; depression; postmenopausal bleeding; runny nose
+Lung Cancer (acute),yellow eyes; edema; vomiting; hoarseness; burning urination; gurgling; bruising; breast pain
+Colon Cancer,blocked urine flow; stiffness; polyuria; swelling; tinnitus
+Prostate Cancer,hearing loss; weakness; finger clubbing
+Cervical Cancer (acute),polyuria; hair loss; syncope; hearing loss; nasal congestion; weakness in limb; constipation
+Endometrial Cancer (chronic),vaginal discharge; confusion; bleeding; breast lump; weakness; night sweats; weight loss; sneezing
+Pancreatic Cancer,breast lump; insomnia; floaters; weight gain; pale skin
+Bladder Cancer variant 5,runny nose; bad breath; nausea; numbness; yellow eyes; acne; sore throat; pale skin
+Skin Cancer,headache; fever; red eye; itching; ear pain; postmenopausal bleeding; bad breath; chills
+Thyroid Disease (chronic),postmenopausal bleeding; sweating; numbness; halitosis; bad breath; vomiting; loss of appetite
+Hyperthyroidism variant 4 #575,blurred vision; finger clubbing; vision changes; infertility; balance problems; pelvic pain; fever
+Hypothyroidism,hallucinations; sneezing; wheezing
+Graves' Disease (chronic),cough; jaundice; abnormal vaginal bleeding; confusion; nasal congestion
+Hashimoto's Thyroiditis,trauma history; fever; acne
+Adrenal Insufficiency variant 5,joint pain; hoarseness; localized pain; urinary urgency; bruising; loss of appetite; abdominal pain; pelvic pain
+Cushing's Syndrome,dry mouth; bruising; chills; dizziness; fatigue; bleeding; swelling
+Addison's Disease,wheezing; memory loss; dry skin; confusion; urinary frequency; blurred vision
+Diabetes Mellitus Type 1,weight loss; urinary frequency; numbness; burning urination; abnormal vaginal bleeding; nasal congestion; chills; lymphadenopathy
+Diabetes Mellitus Type 2,shortness of breath; difficulty swallowing; hoarseness; wheezing; loss of appetite; ear discharge
+Hypoglycemia (chronic),shortness of breath; dry mouth; weakness in limb; chills; constipation; blood in urine; persistent cough; edema
+Hyperglycemia (chronic),vaginal discharge; finger clubbing; muscle pain
+Obesity,hair loss; weakness; dry skin; slow wound healing; abdominal pain; edema; shortness of breath
+Metabolic Syndrome (acute),localized pain; bloating; breast pain
+Anxiety Disorder (acute),vaginal discharge; constipation; anxiety; muscle pain; hearing loss; generalized pain
+Major Depressive Disorder (acute),ear pain; localized pain; severe pain; acne
+Bipolar Disorder (acute),bleeding; breast pain; slow wound healing
+Schizophrenia variant 5,slow wound healing; memory loss; rash
+PTSD variant 1,cold intolerance; generalized pain; weight loss; breast pain; abdominal pain; speech difficulty; bloody cough
+Obsessive Compulsive Disorder (chronic),constipation; redness; bloating; halitosis; abdominal pain; tingling; sneezing
+Insomnia,sneezing; bad breath; stiffness; memory loss; burning urination; loss of consciousness; breast lump
+Substance Use Disorder,sweating; fatigue; anxiety; tingling; ear pain
+Alcohol Use Disorder variant 2,balance problems; yellow eyes; back pain; fever; cough; easy bruising; vomiting; bloating
+Smoking Related Disorder,easy bruising; tingling; night sweats; vomiting; bad breath; speech difficulty; syncope
+Osteomyelitis #598,bloody cough; diarrhea; muscle pain; leg swelling; difficulty swallowing; floaters; swelling; stiffness
+Rickets,weakness; diarrhea; sore throat; fatigue; swelling; blood in urine
+Scurvy,pale skin; vision changes; stridor; bloating; diarrhea; postmenopausal bleeding; fatigue; cough
+Dehydration,slow wound healing; leg swelling; chills; yellow eyes
+Heat Stroke variant 5,eye pain; hair loss; rash; wheezing; vomiting
+Hypothermia (chronic),urinary frequency; runny nose; bloating; infertility; floaters
+Influenza (acute),pelvic pain; localized pain; balance problems; recurrent infections; breast pain
+Common Cold (chronic),recurrent infections; chills; bloating; loss of appetite; generalized pain; bloody cough; headache; sweating
+Pneumonia (acute),breast pain; dry mouth; balance problems
+Bronchitis (acute),trauma history; eye pain; runny nose; heat intolerance; vaginal discharge; bad breath; burning urination
+Asthma,chest pain; severe pain; wheezing; loss of appetite; balance problems; numbness; bloating
+Chronic Obstructive Pulmonary Disease,eye pain; fatigue; dizziness; stiffness; edema; pale skin
+Tuberculosis,loss of consciousness; trauma history; confusion
+COVID-19,excessive thirst; bloody cough; insomnia; hoarseness; easy bruising; urinary frequency; memory loss; localized pain
+Sinusitis variant 4,hair loss; diarrhea; blurred vision; slow wound healing; wheezing; joint pain; balance problems; urinary urgency
+Allergic Rhinitis,trauma history; leg swelling; pelvic pain; night sweats; depression; heat intolerance; weakness; cough
+Otitis Media,sweating; weakness in limb; hearing loss; tingling; chills; syncope; abnormal vaginal bleeding; numbness
+Pharyngitis,back pain; yellow eyes; itching; weakness; weakness in limb
+Tonsillitis variant 4,anxiety; leg swelling; vaginal discharge; infertility
+Gastroenteritis variant 5,nausea; floaters; eye pain; recurrent infections
+Gastritis (acute),red eye; vomiting; tingling; pale skin; constipation; gurgling; edema
+Peptic Ulcer Disease variant 3,abdominal pain; infertility; breast lump
+GERD,depression; anxiety; fever
+Hepatitis A (acute) #621,frequent infections; cold intolerance; hair loss
+Hepatitis B (chronic),bleeding; speech difficulty; depression; ear pain; edema; easy bruising; floaters; urinary frequency
+Hepatitis C,weakness; hoarseness; floaters; yellow eyes; depression
+Fatty Liver,dry skin; hearing loss; persistent cough; slow wound healing; blood in urine; red eye; bloating
+Cirrhosis,postmenopausal bleeding; slow wound healing; hoarseness
+Pancreatitis (acute),urinary frequency; burning urination; finger clubbing
+Gallstones,anxiety; memory loss; blocked urine flow; generalized pain; abdominal pain
+Appendicitis,chills; tingling; weight loss
+Irritable Bowel Syndrome,gurgling; bloody cough; breast lump; abdominal pain; muscle pain; heat intolerance; sneezing; nasal congestion
+Ulcerative Colitis,menstrual irregularities; ear discharge; floaters
+Crohn's Disease (acute),persistent cough; urinary frequency; abdominal pain; abnormal vaginal bleeding
+Diverticulitis variant 4,fatigue; finger clubbing; trauma history; dry mouth; constipation; odor
+Celiac Disease,floaters; slow wound healing; dry mouth; weakness in limb; weight loss; tingling
+Constipation (chronic),confusion; stridor; weakness
+Diarrhea,blurred vision; polyuria; balance problems; speech difficulty; bad breath; sore throat; localized pain
+Urinary Tract Infection,sore throat; wheezing; loss of appetite; abdominal pain; pelvic pain; slow wound healing; dry skin
+Pyelonephritis variant 1,jaundice; weakness in limb; pelvic pain; breast pain; cold intolerance; localized pain; postmenopausal bleeding
+Kidney Stones variant 4,itching; menstrual irregularities; urinary frequency; swelling
+Acute Renal Failure (chronic),lymphadenopathy; weight loss; breast lump; cold intolerance; generalized pain; gurgling
+Chronic Kidney Disease,bleeding; generalized pain; anxiety; pale skin; persistent cough; stridor; acne
+Urinary Incontinence,sneezing; ear pain; hair loss; persistent cough
+Benign Prostatic Hyperplasia (chronic),severe pain; urinary urgency; trauma history; loss of appetite; loss of consciousness
+Prostatitis,sore throat; weakness in limb; mood swings; localized pain; finger clubbing; jaundice; loss of consciousness; bloating
+Erectile Dysfunction (chronic) #644,depression; balance problems; polyuria; excessive thirst; easy bruising
+Endometriosis,breast pain; trauma history; gurgling; hallucinations; redness; vision changes; lymphadenopathy; cough
+Polycystic Ovary Syndrome,abdominal pain; chest pain; vaginal discharge; weight gain; weakness; easy bruising; headache
+Pelvic Inflammatory Disease,rash; abnormal vaginal bleeding; halitosis; sweating
+Ovarian Cyst variant 3,severe pain; muscle pain; weight gain; headache; localized pain
+Ectopic Pregnancy (chronic),ear pain; abnormal vaginal bleeding; mood swings; palpitations; burning urination
+Preeclampsia (acute),abdominal pain; heat intolerance; trauma history; stridor; depression; hoarseness
+Gestational Diabetes,leg swelling; depression; pelvic pain; back pain; speech difficulty; halitosis; frequent infections; recurrent infections
+Pneumothorax,redness; localized pain; easy bruising; weakness; vaginal discharge; pelvic pain; breast pain; halitosis
+Pulmonary Embolism,pale skin; anxiety; weakness; cough; gurgling; muscle pain; sneezing; hair loss
+Deep Vein Thrombosis (acute),hoarseness; finger clubbing; loss of consciousness; leg swelling; blocked urine flow; abnormal vaginal bleeding
+Myocardial Infarction,mood swings; stridor; cold intolerance; sneezing; bad breath; bloody cough; nasal congestion
+Angina variant 1,red eye; sore throat; severe pain; syncope; runny nose
+Heart Failure (chronic),stridor; speech difficulty; constipation; vaginal discharge
+Hypertension variant 4,vision changes; itching; depression
+Hypotension,loss of appetite; sweating; polyuria; muscle pain; fever
+Arrhythmia,tinnitus; loss of consciousness; night sweats; fatigue; jaundice
+Atrial Fibrillation (chronic),weakness; bad breath; acne; heat intolerance; slow wound healing; bleeding; numbness
+Endocarditis,anxiety; burning urination; syncope; halitosis; loss of consciousness; pale skin; confusion
+Pericarditis,runny nose; memory loss; dizziness; halitosis
+Rheumatic Heart Disease variant 4,sweating; breast pain; mood swings; hallucinations; infertility; vomiting; urinary urgency
+Stroke (acute),ear discharge; slow wound healing; yellow eyes; blood in urine
+Transient Ischemic Attack,ear discharge; abnormal vaginal bleeding; hair loss; confusion; hearing loss
+Migraine #667,abnormal vaginal bleeding; edema; cough; bloating; easy bruising; urinary urgency; red eye
+Tension Headache (chronic),leg swelling; heat intolerance; hair loss; joint pain
+Cluster Headache (acute),severe pain; jaundice; vaginal discharge
+Meningitis,pelvic pain; muscle pain; mood swings
+Encephalitis,redness; chest pain; memory loss; odor; blocked urine flow; speech difficulty; recurrent infections; red eye
+Seizure Disorder (acute),fatigue; swelling; edema; nasal congestion; jaundice; speech difficulty
+Epilepsy,diarrhea; chills; odor
+Multiple Sclerosis,hallucinations; fever; acne; dizziness; ear pain; easy bruising; bad breath
+Parkinson's Disease variant 1,severe pain; vision changes; abdominal pain; ear pain
+Alzheimer's Disease,generalized pain; stridor; bad breath; blurred vision; leg swelling; syncope; gurgling
+Peripheral Neuropathy (acute),night sweats; chest pain; floaters; persistent cough; yellow eyes; palpitations; vomiting; syncope
+Bell's Palsy,sore throat; frequent infections; muscle pain
+Guillain-Barre Syndrome (chronic),syncope; excessive thirst; difficulty swallowing; stiffness; breast lump; pelvic pain; red eye
+Osteoarthritis,infertility; blurred vision; pale skin; shortness of breath; pelvic pain; trauma history; constipation; hallucinations
+Rheumatoid Arthritis variant 4,leg swelling; bloody cough; hair loss
+Gout,abnormal vaginal bleeding; gurgling; polyuria
+Osteoporosis (chronic),generalized pain; syncope; burning urination
+Scoliosis,abdominal pain; swelling; halitosis; severe pain; bleeding; cold intolerance; vomiting
+Herniated Disc variant 5,postmenopausal bleeding; eye pain; vaginal discharge; menstrual irregularities; slow wound healing
+Sciatica variant 2,hearing loss; sweating; hallucinations
+Sprain/Strain,weight loss; gurgling; menstrual irregularities; frequent infections
+Fracture (chronic),swelling; finger clubbing; weight gain; bleeding; trauma history; frequent infections; wheezing
+Systemic Lupus Erythematosus,blocked urine flow; cough; anxiety; depression; weight gain; constipation; fatigue; fever
+Psoriasis variant 5 #690,dry skin; menstrual irregularities; hallucinations; anxiety; nausea; bruising; ear pain
+Eczema (chronic),stridor; bloody cough; urinary urgency; ear discharge; breast lump; leg swelling; speech difficulty; weight gain
+Acne (acute),runny nose; hoarseness; heat intolerance; muscle pain
+Cellulitis,bloating; runny nose; easy bruising; recurrent infections
+Impetigo,weakness; abnormal vaginal bleeding; anxiety; tinnitus; leg swelling; syncope; swelling
+MRSA Infection,dizziness; muscle pain; diarrhea; sneezing; bloody cough; polyuria; numbness; yellow eyes
+Herpes Simplex,loss of appetite; easy bruising; edema; back pain; diarrhea
+Herpes Zoster (Shingles),hair loss; dizziness; nasal congestion; pale skin; numbness
+HIV Infection variant 4,yellow eyes; heat intolerance; slow wound healing; bruising; localized pain; polyuria
+AIDS (chronic),insomnia; blood in urine; lymphadenopathy; pale skin
+Mononucleosis,chills; fever; pale skin; joint pain; halitosis; hoarseness
+Lyme Disease,stridor; leg swelling; blurred vision; itching; blood in urine; weight loss; trauma history; wheezing
+Malaria variant 3,balance problems; tinnitus; red eye; burning urination; bad breath
+Dengue,numbness; anxiety; abdominal pain; sore throat; leg swelling
+Typhoid Fever,nausea; itching; weight loss; hallucinations; sneezing; stiffness; wheezing
+Rabies (chronic),syncope; wheezing; shortness of breath; weakness in limb; acne; chest pain; polyuria; infertility
+Tetanus variant 4,ear discharge; palpitations; anxiety; stiffness; mood swings; hearing loss; edema
+Sepsis (acute),blood in urine; menstrual irregularities; hoarseness; odor
+Anemia,wheezing; swelling; weight loss; tinnitus; weakness in limb; speech difficulty; vomiting
+Iron Deficiency Anemia,blood in urine; weakness in limb; cough; slow wound healing; back pain; lymphadenopathy
+Vitamin B12 Deficiency,severe pain; chills; abnormal vaginal bleeding; speech difficulty; weight loss; red eye; sweating
+Thalassemia variant 2,insomnia; slow wound healing; weight gain; stridor
+Hemophilia variant 1,balance problems; burning urination; fatigue; hoarseness; postmenopausal bleeding; numbness; difficulty swallowing; dizziness
+Leukemia (acute) #713,blocked urine flow; difficulty swallowing; fatigue; easy bruising; ear pain
+Lymphoma,frequent infections; blood in urine; pelvic pain; hearing loss; floaters; fatigue; edema
+Melanoma (chronic),abdominal pain; loss of consciousness; memory loss; finger clubbing; itching
+Breast Cancer (acute),stiffness; polyuria; mood swings; insomnia; sore throat; vaginal discharge; edema; blood in urine
+Lung Cancer,edema; syncope; memory loss; muscle pain; vaginal discharge; hoarseness; infertility
+Colon Cancer (acute),urinary urgency; numbness; frequent infections; balance problems; cold intolerance
+Prostate Cancer,weakness in limb; weight loss; eye pain
+Cervical Cancer (acute),difficulty swallowing; syncope; speech difficulty; leg swelling
+Endometrial Cancer (acute),ear discharge; night sweats; runny nose; sweating; blood in urine
+Pancreatic Cancer,persistent cough; constipation; slow wound healing; difficulty swallowing; breast pain; lymphadenopathy; yellow eyes
+Bladder Cancer,bloating; balance problems; trauma history; ear pain; dry mouth; sweating; leg swelling; breast lump
+Skin Cancer (acute),joint pain; fatigue; loss of appetite
+Thyroid Disease,dry mouth; sweating; weight loss; acne; speech difficulty; fatigue; excessive thirst
+Hyperthyroidism (chronic),headache; chills; stiffness; runny nose
+Hypothyroidism,infertility; dry skin; insomnia; finger clubbing; shortness of breath; bloody cough; wheezing
+Graves' Disease variant 1,redness; nausea; ear discharge; red eye; cold intolerance; hearing loss; balance problems; chills
+Hashimoto's Thyroiditis,breast lump; dry skin; weight gain; frequent infections
+Adrenal Insufficiency,odor; runny nose; hair loss; slow wound healing; speech difficulty; stiffness; chills
+Cushing's Syndrome,severe pain; urinary frequency; floaters; dry skin; dry mouth; dizziness; difficulty swallowing; vaginal discharge
+Addison's Disease variant 3,loss of appetite; abdominal pain; shortness of breath; sneezing; memory loss; weakness in limb
+Diabetes Mellitus Type 1,breast pain; night sweats; cold intolerance; diarrhea; sore throat; hearing loss; heat intolerance; dry skin
+Diabetes Mellitus Type 2,halitosis; hallucinations; weakness in limb
+Hypoglycemia variant 5,vomiting; balance problems; slow wound healing
+Hyperglycemia (acute) #736,cold intolerance; mood swings; fever; bad breath
+Obesity (acute),edema; blurred vision; memory loss; breast pain; blocked urine flow; fatigue; generalized pain; confusion
+Metabolic Syndrome,difficulty swallowing; recurrent infections; balance problems; frequent infections; odor; vaginal discharge
+Anxiety Disorder,dry mouth; recurrent infections; stridor; postmenopausal bleeding; generalized pain
+Major Depressive Disorder,diarrhea; vision changes; weight loss; muscle pain; balance problems; odor; difficulty swallowing
+Bipolar Disorder,redness; dry skin; mood swings
+Schizophrenia variant 1,muscle pain; nasal congestion; fever; loss of consciousness; gurgling; frequent infections
+PTSD,excessive thirst; memory loss; constipation
+Obsessive Compulsive Disorder,fever; vaginal discharge; edema; ear pain; localized pain; recurrent infections; pale skin
+Insomnia (acute),blood in urine; abdominal pain; night sweats; vision changes; edema; polyuria
+Substance Use Disorder (acute),stiffness; hallucinations; vision changes; insomnia; blood in urine
+Alcohol Use Disorder (chronic),itching; severe pain; menstrual irregularities; abnormal vaginal bleeding; ear pain; breast lump; anxiety
+Smoking Related Disorder (acute),balance problems; sore throat; blocked urine flow; depression; muscle pain; bruising; excessive thirst
+Osteomyelitis (chronic),bad breath; loss of consciousness; menstrual irregularities; stridor; weight loss
+Rickets (acute),constipation; gurgling; difficulty swallowing; red eye; halitosis; generalized pain; sweating; diarrhea
+Scurvy (chronic),speech difficulty; infertility; halitosis; urinary frequency
+Dehydration variant 2,heat intolerance; generalized pain; severe pain; loss of consciousness; weakness; sweating; pelvic pain
+Heat Stroke variant 5,fever; recurrent infections; vomiting; weight gain; hearing loss; dry skin; blurred vision; dizziness
+Hypothermia,hoarseness; blocked urine flow; nausea; cold intolerance; palpitations
+Influenza (chronic),pelvic pain; infertility; heat intolerance; edema; memory loss; redness; persistent cough; dry skin
+Common Cold (acute),bad breath; sore throat; finger clubbing
+Pneumonia,eye pain; cough; sneezing; slow wound healing; recurrent infections; memory loss
+Bronchitis variant 2,nasal congestion; palpitations; halitosis; dry skin; speech difficulty
+Asthma variant 5 #759,generalized pain; difficulty swallowing; heat intolerance; chills; trauma history; palpitations; blood in urine
+Chronic Obstructive Pulmonary Disease (acute),edema; fever; sweating; vomiting
+Tuberculosis variant 3,bad breath; infertility; burning urination; easy bruising; menstrual irregularities
+COVID-19 variant 1,dry mouth; sneezing; memory loss; cough; stridor; loss of consciousness
+Sinusitis,vomiting; anxiety; redness
+Allergic Rhinitis variant 3,depression; polyuria; urinary urgency; itching; hoarseness; cold intolerance; nasal congestion; floaters
+Otitis Media,excessive thirst; fever; stiffness; sore throat; breast lump; weakness in limb
+Pharyngitis (acute),depression; syncope; weakness in limb
+Tonsillitis variant 3,urinary frequency; bloating; recurrent infections; speech difficulty; muscle pain
+Gastroenteritis,frequent infections; excessive thirst; muscle pain; localized pain; eye pain; vaginal discharge; insomnia
+Gastritis (chronic),odor; joint pain; abnormal vaginal bleeding; urinary frequency; bad breath; floaters
+Peptic Ulcer Disease,floaters; dry mouth; chest pain; balance problems; bloating; stiffness; dizziness; vaginal discharge
+GERD,halitosis; hoarseness; trauma history; generalized pain; difficulty swallowing; recurrent infections; pale skin; breast lump
+Hepatitis A variant 3,memory loss; hallucinations; cough; generalized pain; stiffness
+Hepatitis B (chronic),redness; vomiting; infertility; trauma history
+Hepatitis C variant 4,urinary frequency; syncope; anxiety; sore throat; hearing loss; pale skin; burning urination; ear discharge
+Fatty Liver (acute),rash; runny nose; gurgling; severe pain; nasal congestion; tingling; stridor
+Cirrhosis variant 3,back pain; stridor; stiffness; ear pain
+Pancreatitis,sneezing; joint pain; hair loss; burning urination
+Gallstones,bad breath; abdominal pain; constipation; nausea
+Appendicitis (chronic),slow wound healing; tingling; heat intolerance; fever; postmenopausal bleeding; mood swings; fatigue; balance problems
+Irritable Bowel Syndrome,hair loss; pale skin; tingling; excessive thirst; itching
+Ulcerative Colitis,runny nose; postmenopausal bleeding; speech difficulty; itching; menstrual irregularities; hoarseness
+Crohn's Disease (chronic) #782,loss of appetite; weakness; confusion; recurrent infections; vision changes; balance problems; mood swings
+Diverticulitis,weakness in limb; urinary urgency; menstrual irregularities
+Celiac Disease,bad breath; sore throat; floaters; constipation; generalized pain; memory loss; pale skin; localized pain
+Constipation,cough; trauma history; ear pain
+Diarrhea (acute),polyuria; diarrhea; jaundice; blood in urine; heat intolerance; stiffness
+Urinary Tract Infection,anxiety; stiffness; back pain; rash
+Pyelonephritis variant 3,heat intolerance; urinary frequency; blood in urine; runny nose; tingling; vision changes
+Kidney Stones,breast pain; generalized pain; abnormal vaginal bleeding; blocked urine flow
+Acute Renal Failure (chronic),infertility; itching; red eye; runny nose; excessive thirst
+Chronic Kidney Disease,excessive thirst; severe pain; difficulty swallowing; diarrhea
+Urinary Incontinence (chronic),rash; recurrent infections; back pain; depression; blurred vision; vaginal discharge; sneezing; weight gain
+Benign Prostatic Hyperplasia (chronic),night sweats; hearing loss; lymphadenopathy; cough; sore throat; breast pain; tingling; weight loss
+Prostatitis (chronic),memory loss; hallucinations; bloody cough; pale skin; halitosis; numbness; bleeding; muscle pain
+Erectile Dysfunction,insomnia; weakness; menstrual irregularities; diarrhea; localized pain; sweating; headache
+Endometriosis,muscle pain; hearing loss; acne; diarrhea
+Polycystic Ovary Syndrome,gurgling; yellow eyes; stiffness; blood in urine; depression; lymphadenopathy
+Pelvic Inflammatory Disease (acute),urinary urgency; shortness of breath; breast lump; constipation; trauma history
+Ovarian Cyst (acute),sneezing; excessive thirst; edema; hallucinations; sore throat; bad breath; redness
+Influenza,jaundice; trauma history; speech difficulty; numbness; bad breath
+Common Cold (acute),red eye; nausea; vaginal discharge; heat intolerance; redness; tinnitus; acne; weight gain
+Pneumonia (chronic),finger clubbing; lymphadenopathy; urinary frequency; breast pain
+Bronchitis (chronic),heat intolerance; excessive thirst; infertility; syncope; nausea; sweating; urinary frequency; difficulty swallowing
+Asthma,pale skin; edema; swelling; loss of consciousness; rash
+Chronic Obstructive Pulmonary Disease #805,leg swelling; menstrual irregularities; rash; eye pain; bad breath; blood in urine; gurgling
+Tuberculosis,memory loss; red eye; breast lump; chills; runny nose; shortness of breath; loss of appetite
+COVID-19 (acute),back pain; slow wound healing; muscle pain; gurgling; generalized pain; nausea; ear pain; chills
+Sinusitis variant 1,abdominal pain; diarrhea; dizziness; hearing loss; anxiety; weakness
+Allergic Rhinitis (acute),odor; menstrual irregularities; confusion
+Otitis Media (chronic),abdominal pain; stiffness; hair loss
+Pharyngitis,nausea; edema; pelvic pain; bruising
+Tonsillitis,joint pain; stridor; redness; eye pain
+Gastroenteritis,loss of appetite; confusion; chills; chest pain; palpitations; slow wound healing; burning urination; jaundice
+Gastritis,tinnitus; mood swings; rash; anxiety; eye pain; weight loss
+Peptic Ulcer Disease variant 4,mood swings; sore throat; dry mouth; dry skin; floaters; acne; gurgling; finger clubbing
+GERD,blurred vision; confusion; finger clubbing; hallucinations; bruising; urinary urgency; balance problems
+Hepatitis A,difficulty swallowing; lymphadenopathy; vomiting; eye pain; bruising; blood in urine; breast lump
+Hepatitis B (acute),night sweats; bleeding; cough; fever; memory loss
+Hepatitis C,urinary urgency; redness; hearing loss; hallucinations
+Fatty Liver,localized pain; numbness; abnormal vaginal bleeding
+Cirrhosis (chronic),bleeding; cough; odor; blurred vision; recurrent infections; swelling
+Pancreatitis (acute),difficulty swallowing; frequent infections; fever; anxiety; blocked urine flow; nasal congestion; breast lump
+Gallstones,blurred vision; menstrual irregularities; joint pain; sweating; persistent cough; stridor; leg swelling
+Appendicitis (chronic),vaginal discharge; hoarseness; stiffness; nausea; vision changes; acne
+Irritable Bowel Syndrome (acute),memory loss; postmenopausal bleeding; recurrent infections; heat intolerance
+Ulcerative Colitis (acute),severe pain; rash; redness; edema; gurgling; hallucinations; lymphadenopathy; breast lump
+Crohn's Disease,dizziness; runny nose; weight loss; swelling
+Diverticulitis #828,finger clubbing; floaters; hair loss
+Celiac Disease,rash; generalized pain; hair loss; numbness; nasal congestion; jaundice
+Constipation,night sweats; weakness; hallucinations
+Diarrhea variant 4,runny nose; abdominal pain; redness
+Urinary Tract Infection (acute),loss of appetite; persistent cough; eye pain; wheezing; cough
+Pyelonephritis (chronic),vomiting; night sweats; cough; tingling
+Kidney Stones,urinary frequency; breast pain; bruising; halitosis
+Acute Renal Failure,blocked urine flow; tinnitus; generalized pain; frequent infections; palpitations; yellow eyes
+Chronic Kidney Disease variant 2,abnormal vaginal bleeding; weight gain; headache
+Urinary Incontinence,bad breath; menstrual irregularities; syncope; mood swings; hearing loss
+Benign Prostatic Hyperplasia (acute),nasal congestion; muscle pain; vaginal discharge; cough
+Prostatitis (chronic),odor; persistent cough; joint pain
+Erectile Dysfunction (chronic),odor; eye pain; joint pain; stridor; palpitations; sneezing
+Endometriosis (acute),stridor; odor; diarrhea; memory loss; easy bruising; ear pain
+Polycystic Ovary Syndrome (chronic),pelvic pain; severe pain; bruising; jaundice; sweating; acne
+Pelvic Inflammatory Disease (acute),fatigue; gurgling; anxiety; memory loss; constipation; muscle pain; balance problems; finger clubbing
+Ovarian Cyst (chronic),sneezing; blood in urine; weakness; easy bruising; ear discharge
+Ectopic Pregnancy,back pain; finger clubbing; blurred vision
+Preeclampsia variant 3,cough; chills; frequent infections; itching; polyuria
+Gestational Diabetes (chronic),menstrual irregularities; frequent infections; joint pain
+Pneumothorax,fatigue; polyuria; halitosis
+Pulmonary Embolism,hearing loss; localized pain; dry skin; night sweats; blocked urine flow; odor; vomiting; joint pain
+Deep Vein Thrombosis,tingling; vomiting; severe pain; hair loss
+Myocardial Infarction (acute) #851,postmenopausal bleeding; acne; headache; burning urination; leg swelling
+Angina,generalized pain; hallucinations; frequent infections; abdominal pain
+Heart Failure variant 2,numbness; difficulty swallowing; pale skin; depression
+Hypertension (acute),abnormal vaginal bleeding; urinary urgency; lymphadenopathy; eye pain; wheezing; nasal congestion; shortness of breath; localized pain
+Hypotension variant 5,burning urination; bloody cough; weight loss; muscle pain; fatigue; numbness
+Arrhythmia (chronic),eye pain; depression; swelling; mood swings; generalized pain; numbness; nasal congestion; insomnia
+Atrial Fibrillation (chronic),mood swings; urinary urgency; jaundice; wheezing
+Endocarditis,itching; dry skin; anxiety; sweating; dizziness; confusion
+Pericarditis (acute),red eye; swelling; stiffness; mood swings
+Rheumatic Heart Disease,floaters; fever; bad breath; finger clubbing; weakness in limb
+Stroke,wheezing; runny nose; shortness of breath; hair loss; blood in urine; bad breath
+Transient Ischemic Attack variant 1,back pain; jaundice; bloody cough; dizziness; slow wound healing; hallucinations; pelvic pain
+Migraine (chronic),confusion; severe pain; tingling; odor
+Tension Headache,night sweats; heat intolerance; redness; jaundice; breast lump; leg swelling; bloating
+Cluster Headache,memory loss; slow wound healing; dizziness
+Meningitis (chronic),loss of appetite; sore throat; palpitations
+Encephalitis,abdominal pain; numbness; nasal congestion; diarrhea
+Seizure Disorder variant 4,excessive thirst; leg swelling; pelvic pain
+Epilepsy (acute),numbness; confusion; hair loss; generalized pain; dry mouth; muscle pain; weakness; blood in urine
+Multiple Sclerosis (acute),cold intolerance; persistent cough; syncope; cough
+Parkinson's Disease,edema; numbness; nausea; tinnitus
+Alzheimer's Disease variant 5,headache; blood in urine; depression; gurgling; breast pain; blocked urine flow; frequent infections; loss of consciousness
+Peripheral Neuropathy variant 5,heat intolerance; rash; confusion
+Bell's Palsy variant 2 #874,wheezing; syncope; bleeding
+Guillain-Barre Syndrome,ear discharge; memory loss; diarrhea
+Osteoarthritis (acute),bloody cough; difficulty swallowing; hallucinations
+Rheumatoid Arthritis variant 1,nasal congestion; confusion; slow wound healing; joint pain; insomnia; acne
+Gout,depression; gurgling; breast pain; abdominal pain
+Osteoporosis (acute),excessive thirst; burning urination; trauma history; floaters; generalized pain; easy bruising; vision changes; abdominal pain
+Scoliosis (acute),frequent infections; runny nose; anxiety; infertility
+Herniated Disc,urinary frequency; slow wound healing; sweating; hallucinations; dry skin; eye pain; burning urination
+Sciatica,anxiety; jaundice; blocked urine flow; breast lump; postmenopausal bleeding
+Sprain/Strain variant 5,blurred vision; bloody cough; jaundice; cold intolerance; back pain; insomnia; mood swings; ear discharge
+Fracture,odor; anxiety; gurgling; muscle pain; blood in urine; red eye
+Systemic Lupus Erythematosus variant 5,menstrual irregularities; fever; bloody cough; palpitations; redness; dry skin
+Psoriasis,memory loss; weight loss; bleeding
+Eczema (acute),bleeding; hoarseness; ear discharge
+Acne,shortness of breath; odor; localized pain; itching; anxiety
+Cellulitis,depression; excessive thirst; night sweats; diarrhea; palpitations; floaters; burning urination
+Impetigo variant 3,weight loss; stiffness; blood in urine; polyuria
+MRSA Infection,difficulty swallowing; muscle pain; lymphadenopathy; bleeding
+Herpes Simplex (chronic),excessive thirst; infertility; insomnia
+Herpes Zoster (Shingles) (chronic),wheezing; syncope; bloody cough; jaundice
+HIV Infection (acute),sore throat; numbness; localized pain; generalized pain; excessive thirst; diarrhea
+AIDS (acute),leg swelling; bleeding; palpitations; wheezing; lymphadenopathy; excessive thirst; vaginal discharge
+Mononucleosis,bad breath; headache; odor
+Lyme Disease #897,urinary urgency; blurred vision; breast pain; constipation; odor
+Malaria,gurgling; edema; cold intolerance; cough
+Dengue,bad breath; acne; vaginal discharge; weakness; bruising; confusion; fatigue; pale skin
+Typhoid Fever variant 1,insomnia; night sweats; jaundice; weakness in limb; generalized pain; hoarseness; weakness
+Rabies,wheezing; menstrual irregularities; red eye; abnormal vaginal bleeding; dry skin; excessive thirst; weakness in limb; vomiting
+Tetanus (chronic),blurred vision; swelling; halitosis; menstrual irregularities
+Sepsis,loss of appetite; urinary frequency; nausea; hearing loss
+Anemia,gurgling; weakness; anxiety; infertility; stiffness; nausea; weakness in limb
+Iron Deficiency Anemia (acute),bad breath; generalized pain; loss of appetite; postmenopausal bleeding; weight loss; balance problems
+Vitamin B12 Deficiency,sneezing; numbness; menstrual irregularities; edema; excessive thirst; depression; heat intolerance
+Thalassemia variant 5,confusion; joint pain; syncope; rash; bad breath; blurred vision; jaundice; severe pain
+Hemophilia,vomiting; bloating; easy bruising; breast lump; vision changes; blood in urine; urinary urgency
+Leukemia,jaundice; urinary urgency; dry skin; edema
+Lymphoma variant 1,odor; bruising; chills
+Melanoma,heat intolerance; recurrent infections; eye pain; hair loss; weight gain
+Breast Cancer,fatigue; difficulty swallowing; sneezing; severe pain; blocked urine flow; night sweats
+Lung Cancer,nausea; bloating; stridor; weakness; joint pain; hair loss; weight gain; redness
+Colon Cancer (chronic),urinary frequency; localized pain; recurrent infections
+Prostate Cancer (acute),bruising; red eye; hearing loss
+Cervical Cancer,yellow eyes; ear pain; stridor
+Endometrial Cancer,ear discharge; ear pain; mood swings; memory loss; abnormal vaginal bleeding; stiffness; anxiety
+Pancreatic Cancer (acute),hair loss; wheezing; weight gain; localized pain; generalized pain; easy bruising
+Bladder Cancer variant 1,vaginal discharge; polyuria; slow wound healing
+Skin Cancer #920,fatigue; muscle pain; chills; headache; redness; sneezing; frequent infections
+Thyroid Disease variant 2,hair loss; rash; weakness; tinnitus; edema; cough; dizziness; pelvic pain
+Hyperthyroidism (acute),rash; slow wound healing; blood in urine; abdominal pain; shortness of breath; swelling; edema; pelvic pain
+Hypothyroidism variant 5,vaginal discharge; speech difficulty; loss of consciousness; diarrhea
+Graves' Disease (acute),numbness; dry skin; hallucinations; vomiting; runny nose
+Hashimoto's Thyroiditis variant 5,weakness in limb; floaters; depression; persistent cough
+Adrenal Insufficiency variant 2,fatigue; joint pain; confusion
+Cushing's Syndrome,yellow eyes; numbness; menstrual irregularities; gurgling; sweating
+Addison's Disease,urinary urgency; severe pain; burning urination
+Diabetes Mellitus Type 1,acne; bleeding; back pain; weakness in limb; itching
+Diabetes Mellitus Type 2,acne; muscle pain; pelvic pain
+Hypoglycemia variant 3,depression; itching; hoarseness
+Hyperglycemia variant 5,urinary frequency; menstrual irregularities; slow wound healing; weight loss
+Obesity variant 2,wheezing; vaginal discharge; memory loss
+Metabolic Syndrome (chronic),heat intolerance; acne; severe pain; difficulty swallowing; breast pain; back pain; excessive thirst; night sweats
+Anxiety Disorder (chronic),bruising; cold intolerance; yellow eyes; red eye; mood swings; loss of appetite
+Major Depressive Disorder,edema; weight loss; polyuria; mood swings
+Bipolar Disorder (chronic),recurrent infections; sneezing; weight loss; bruising; localized pain; loss of consciousness; confusion; blurred vision
+Schizophrenia (chronic),edema; insomnia; sweating; pale skin
+PTSD (acute),depression; hallucinations; bloody cough
+Obsessive Compulsive Disorder,runny nose; pale skin; weight gain
+Insomnia (chronic),chest pain; postmenopausal bleeding; pale skin; breast lump; bleeding; eye pain; gurgling; finger clubbing
+Substance Use Disorder,itching; night sweats; bad breath; nasal congestion; abdominal pain; loss of appetite; runny nose; chest pain
+Alcohol Use Disorder #943,heat intolerance; rash; cold intolerance; insomnia; difficulty swallowing; dry skin; severe pain
+Smoking Related Disorder (acute),burning urination; nausea; localized pain
+Osteomyelitis (chronic),weight loss; weakness in limb; cold intolerance; hearing loss; persistent cough; edema
+Rickets,runny nose; pelvic pain; numbness; hearing loss; weight loss
+Scurvy (chronic),nasal congestion; hoarseness; palpitations; breast lump
+Dehydration (acute),rash; breast lump; hoarseness
+Heat Stroke,easy bruising; sneezing; abnormal vaginal bleeding; ear pain; dizziness; sore throat; eye pain; heat intolerance
+Hypothermia,localized pain; jaundice; floaters; joint pain; vision changes; infertility
+Influenza variant 4,cold intolerance; stridor; vaginal discharge
+Common Cold,pale skin; menstrual irregularities; heat intolerance; gurgling; excessive thirst; dry skin; hallucinations; confusion
+Pneumonia (chronic),loss of consciousness; halitosis; palpitations; memory loss; abdominal pain; red eye; floaters; fatigue
+Bronchitis (acute),memory loss; hallucinations; menstrual irregularities; stridor
+Asthma variant 4,depression; pelvic pain; memory loss
+Chronic Obstructive Pulmonary Disease variant 1,weakness; nasal congestion; swelling; eye pain; menstrual irregularities; bleeding; bad breath; redness
+Tuberculosis,chills; vision changes; swelling; heat intolerance; weakness; localized pain
+COVID-19,weight gain; tinnitus; leg swelling; red eye; vomiting; bloody cough; weakness in limb
+Sinusitis (acute),runny nose; bad breath; polyuria
+Allergic Rhinitis variant 3,mood swings; weight loss; menstrual irregularities; breast lump; jaundice; red eye; chest pain; sore throat
+Otitis Media,dry mouth; persistent cough; sneezing; floaters; vomiting; muscle pain
+Pharyngitis (acute),localized pain; edema; persistent cough; frequent infections; sweating
+Tonsillitis (chronic),wheezing; constipation; vomiting; bloating; loss of consciousness; red eye; finger clubbing; blood in urine
+Gastroenteritis variant 2,confusion; loss of consciousness; pelvic pain
+Gastritis variant 3,frequent infections; speech difficulty; heat intolerance; sweating; vaginal discharge; anxiety; fatigue; odor
+Peptic Ulcer Disease variant 1 #966,yellow eyes; insomnia; slow wound healing; night sweats
+GERD variant 5,weight gain; sore throat; odor; persistent cough
+Hepatitis A (acute),breast pain; bruising; wheezing
+Hepatitis B,redness; acne; runny nose; constipation; loss of appetite; sneezing
+Hepatitis C,hair loss; postmenopausal bleeding; muscle pain
+Fatty Liver (acute),floaters; tingling; mood swings
+Cirrhosis (acute),cold intolerance; tingling; back pain
+Pancreatitis,dry mouth; slow wound healing; hearing loss; floaters
+Gallstones (chronic),eye pain; nausea; dry skin; fever; joint pain; anxiety
+Appendicitis variant 4,hair loss; acne; depression; ear pain; weakness
+Irritable Bowel Syndrome (chronic),weight gain; headache; edema; urinary urgency
+Ulcerative Colitis variant 1,weight gain; palpitations; easy bruising
+Crohn's Disease (acute),cold intolerance; bleeding; yellow eyes; vomiting; weakness; abdominal pain; breast pain
+Diverticulitis (acute),sweating; trauma history; redness; heat intolerance
+Celiac Disease variant 4,localized pain; generalized pain; dry skin; excessive thirst; halitosis; depression; sore throat; floaters
+Constipation (chronic),polyuria; blood in urine; palpitations; vomiting; odor; bleeding; jaundice; blocked urine flow
+Diarrhea,dizziness; postmenopausal bleeding; vision changes; anxiety; swelling; hearing loss
+Urinary Tract Infection,constipation; localized pain; itching; yellow eyes
+Pyelonephritis,breast lump; confusion; ear pain; generalized pain; heat intolerance; headache; abdominal pain
+Kidney Stones,wheezing; acne; confusion; vomiting; balance problems; bloody cough; localized pain
+Acute Renal Failure variant 2,halitosis; loss of consciousness; redness; vision changes; cold intolerance; pale skin; stiffness
+Chronic Kidney Disease (chronic),excessive thirst; hair loss; burning urination; loss of appetite; heat intolerance; insomnia; tingling
+Urinary Incontinence,wheezing; acne; tingling; lymphadenopathy; runny nose; heat intolerance; difficulty swallowing
+Benign Prostatic Hyperplasia #989,swelling; nasal congestion; fever; constipation; chest pain; tinnitus; acne; frequent infections
+Prostatitis,stridor; ear pain; recurrent infections
+Erectile Dysfunction,breast pain; breast lump; fatigue; yellow eyes; urinary urgency; depression; lymphadenopathy
+Endometriosis (acute),ear discharge; cough; finger clubbing; sneezing; localized pain; redness; muscle pain; frequent infections
+Polycystic Ovary Syndrome,bruising; bleeding; weakness in limb
+Pelvic Inflammatory Disease variant 5,jaundice; odor; fever; bloating; severe pain; yellow eyes; urinary frequency
+Ovarian Cyst (acute),bloody cough; insomnia; heat intolerance; chest pain; sore throat; nasal congestion
+Ectopic Pregnancy,urinary frequency; trauma history; balance problems; hearing loss; recurrent infections
+Preeclampsia (acute),leg swelling; weight loss; balance problems
+Gestational Diabetes (chronic),acne; floaters; hallucinations; yellow eyes
+Pneumothorax,halitosis; breast lump; gurgling; headache; memory loss; bleeding

@@ -1,0 +1,301 @@
+Disease,Medicine,Dosage,Frequency,Form
+Anxiety,Diazepam,100 mg,Once daily,Tablet
+Hypertension,Hydrochlorothiazide,500 mg,Twice daily,Capsule
+Anemia,Ranitidine,500 mg,Thrice daily,Syrup
+Kidney Disease,Vitamin C,250 mg,Thrice daily,Injection
+Insomnia,Metformin,250 mg,Thrice daily,Syrup
+Pneumonia,Prednisone,500 mg,Once daily,Syrup
+Asthma,Metformin,100 mg,Twice daily,Injection
+Insomnia,Chloroquine,500 mg,Thrice daily,Tablet
+Tuberculosis,Ranitidine,500 mg,Thrice daily,Syrup
+Obesity,Ibuprofen,100 mg,As needed,Syrup
+Liver Disease,Diazepam,100 mg,Once daily,Capsule
+Pneumonia,Hydrochlorothiazide,250 mg,Thrice daily,Tablet
+Allergy,Paracetamol,250 mg,As needed,Tablet
+Ulcer,Warfarin,250 mg,As needed,Tablet
+Anemia,Atorvastatin,100 mg,Thrice daily,Injection
+Anemia,Vitamin C,250 mg,Once daily,Tablet
+Hypertension,Azithromycin,100 mg,As needed,Injection
+Hypertension,Salbutamol,100 mg,As needed,Capsule
+Gout,Morphine,100 mg,As needed,Capsule
+Anemia,Morphine,100 mg,Twice daily,Injection
+Asthma,Azithromycin,250 mg,Twice daily,Capsule
+Gastritis,Doxycycline,100 mg,Once daily,Tablet
+Migraine,Ranitidine,100 mg,Once daily,Injection
+Allergy,Aspirin,500 mg,Twice daily,Syrup
+Gastritis,Aspirin,100 mg,Twice daily,Syrup
+Anemia,Ciprofloxacin,100 mg,Twice daily,Capsule
+Bronchitis,Omeprazole,250 mg,As needed,Tablet
+Cancer,Losartan,100 mg,Thrice daily,Tablet
+Malaria,Chloroquine,500 mg,Once daily,Syrup
+Hypertension,Chloroquine,250 mg,As needed,Tablet
+Cancer,Ibuprofen,100 mg,Twice daily,Injection
+Malaria,Amoxicillin,250 mg,Twice daily,Syrup
+Bronchitis,Paracetamol,100 mg,Once daily,Injection
+Gout,Doxycycline,500 mg,As needed,Syrup
+Asthma,Salbutamol,250 mg,Twice daily,Tablet
+Diarrhea,Salbutamol,500 mg,Once daily,Syrup
+HIV/AIDS,Aspirin,100 mg,Once daily,Injection
+Arthritis,Ranitidine,250 mg,As needed,Syrup
+Cancer,Amoxicillin,100 mg,As needed,Capsule
+Malaria,Ciprofloxacin,250 mg,Twice daily,Syrup
+Allergy,Paracetamol,250 mg,Twice daily,Tablet
+Cancer,Ciprofloxacin,500 mg,Thrice daily,Injection
+Obesity,Paracetamol,100 mg,As needed,Tablet
+Obesity,Hydrochlorothiazide,250 mg,As needed,Syrup
+Pneumonia,Insulin,500 mg,Twice daily,Injection
+COVID-19,Ciprofloxacin,250 mg,Once daily,Tablet
+Anemia,Insulin,100 mg,Thrice daily,Tablet
+Anxiety,Insulin,500 mg,Once daily,Capsule
+Allergy,Hydroxychloroquine,100 mg,Once daily,Syrup
+Sinusitis,Doxycycline,500 mg,As needed,Tablet
+Cholera,Amoxicillin,500 mg,Twice daily,Tablet
+Tuberculosis,Ciprofloxacin,500 mg,Twice daily,Tablet
+Anxiety,Insulin,100 mg,Twice daily,Tablet
+Depression,Warfarin,250 mg,Once daily,Tablet
+Kidney Disease,Ranitidine,250 mg,Thrice daily,Syrup
+Flu,Salbutamol,100 mg,Once daily,Syrup
+Arthritis,Hydrochlorothiazide,250 mg,Twice daily,Tablet
+Sinusitis,Amoxicillin,100 mg,Twice daily,Injection
+Gastritis,Doxycycline,500 mg,Thrice daily,Syrup
+Allergy,Amoxicillin,250 mg,Thrice daily,Injection
+Flu,Diazepam,100 mg,As needed,Tablet
+Liver Disease,Ibuprofen,250 mg,Twice daily,Tablet
+Flu,Amoxicillin,100 mg,As needed,Injection
+Anxiety,Ranitidine,100 mg,Twice daily,Tablet
+Malaria,Sertraline,500 mg,As needed,Tablet
+Migraine,Hydroxychloroquine,500 mg,As needed,Capsule
+Stroke,Insulin,500 mg,Thrice daily,Syrup
+Gastritis,Atorvastatin,250 mg,As needed,Capsule
+Anxiety,Morphine,500 mg,Once daily,Syrup
+Epilepsy,Prednisone,250 mg,As needed,Injection
+Epilepsy,Warfarin,500 mg,As needed,Capsule
+Kidney Disease,Zinc Sulfate,250 mg,As needed,Capsule
+Diabetes,Paracetamol,100 mg,Thrice daily,Injection
+Migraine,Paracetamol,250 mg,As needed,Capsule
+Cholera,Salbutamol,500 mg,As needed,Syrup
+Gastritis,Vitamin C,250 mg,Once daily,Injection
+Flu,Vitamin C,500 mg,As needed,Injection
+Ulcer,Ranitidine,250 mg,Once daily,Syrup
+Pneumonia,Paracetamol,100 mg,Twice daily,Syrup
+Epilepsy,Morphine,250 mg,Thrice daily,Syrup
+Cancer,Aspirin,500 mg,Twice daily,Injection
+Flu,Doxycycline,500 mg,As needed,Injection
+Gastritis,Metronidazole,500 mg,As needed,Capsule
+Insomnia,Morphine,500 mg,Twice daily,Syrup
+Gout,Azithromycin,250 mg,Thrice daily,Syrup
+Diabetes,Ibuprofen,500 mg,Thrice daily,Tablet
+Arthritis,Zinc Sulfate,100 mg,Twice daily,Capsule
+COVID-19,Insulin,250 mg,Once daily,Capsule
+Hypertension,Salbutamol,500 mg,Once daily,Capsule
+Stroke,Aspirin,500 mg,Once daily,Tablet
+Hypertension,Diazepam,250 mg,As needed,Capsule
+Gout,Zinc Sulfate,500 mg,Twice daily,Capsule
+Epilepsy,Paracetamol,250 mg,Once daily,Capsule
+Asthma,Atorvastatin,250 mg,Thrice daily,Capsule
+Gastritis,Sertraline,500 mg,Once daily,Tablet
+Depression,Losartan,250 mg,Once daily,Tablet
+Stroke,Sertraline,100 mg,Twice daily,Capsule
+Allergy,Hydroxychloroquine,500 mg,As needed,Syrup
+Liver Disease,Zinc Sulfate,500 mg,As needed,Tablet
+Typhoid,Artemether,100 mg,Twice daily,Syrup
+Cholera,Vitamin C,500 mg,As needed,Injection
+Asthma,Chloroquine,250 mg,Once daily,Capsule
+Typhoid,Morphine,500 mg,Thrice daily,Syrup
+Ulcer,Ranitidine,250 mg,Once daily,Capsule
+Ulcer,Metronidazole,100 mg,As needed,Tablet
+Hypertension,Paracetamol,500 mg,Twice daily,Capsule
+Flu,Hydrochlorothiazide,250 mg,Twice daily,Capsule
+Hypertension,Metformin,500 mg,Once daily,Syrup
+Malaria,Aspirin,500 mg,As needed,Injection
+HIV/AIDS,Sertraline,250 mg,Twice daily,Tablet
+Stroke,Losartan,250 mg,Thrice daily,Capsule
+Tuberculosis,Omeprazole,100 mg,As needed,Tablet
+Pneumonia,Vitamin C,100 mg,Twice daily,Tablet
+Sinusitis,Hydroxychloroquine,500 mg,Thrice daily,Capsule
+Gout,Ranitidine,250 mg,Thrice daily,Syrup
+Sinusitis,Artemether,250 mg,Thrice daily,Injection
+Obesity,Metformin,100 mg,Twice daily,Injection
+Kidney Disease,Metronidazole,250 mg,Thrice daily,Capsule
+Hypertension,Aspirin,250 mg,Twice daily,Capsule
+Gout,Morphine,100 mg,As needed,Syrup
+Gastritis,Losartan,250 mg,Once daily,Tablet
+Obesity,Ranitidine,250 mg,Once daily,Capsule
+Malaria,Metronidazole,500 mg,As needed,Syrup
+Hypertension,Ibuprofen,500 mg,Once daily,Tablet
+Typhoid,Ibuprofen,500 mg,Twice daily,Tablet
+Liver Disease,Salbutamol,250 mg,Twice daily,Syrup
+Allergy,Diazepam,100 mg,Once daily,Tablet
+Tuberculosis,Artemether,500 mg,Once daily,Syrup
+Diarrhea,Aspirin,250 mg,Twice daily,Syrup
+Flu,Diazepam,250 mg,As needed,Tablet
+Obesity,Artemether,250 mg,As needed,Syrup
+Epilepsy,Artemether,500 mg,Once daily,Tablet
+Malaria,Artemether,100 mg,As needed,Capsule
+Bronchitis,Metformin,500 mg,Thrice daily,Injection
+COVID-19,Metronidazole,100 mg,Once daily,Injection
+Tuberculosis,Aspirin,100 mg,As needed,Injection
+Arthritis,Vitamin C,500 mg,Once daily,Injection
+Anxiety,Artemether,250 mg,As needed,Syrup
+Asthma,Salbutamol,500 mg,Twice daily,Tablet
+Ulcer,Diazepam,250 mg,Thrice daily,Capsule
+Ulcer,Artemether,100 mg,Thrice daily,Tablet
+Gastritis,Chloroquine,250 mg,Once daily,Injection
+Anemia,Sertraline,100 mg,Once daily,Injection
+Anxiety,Hydroxychloroquine,250 mg,As needed,Injection
+Ulcer,Metformin,500 mg,As needed,Injection
+Malaria,Hydrochlorothiazide,100 mg,As needed,Syrup
+Anxiety,Aspirin,500 mg,Once daily,Tablet
+Tuberculosis,Ibuprofen,100 mg,Once daily,Capsule
+Diarrhea,Metformin,100 mg,As needed,Tablet
+Malaria,Atorvastatin,100 mg,As needed,Tablet
+Asthma,Morphine,500 mg,Thrice daily,Injection
+Pneumonia,Vitamin C,100 mg,As needed,Injection
+Hypertension,Chloroquine,100 mg,As needed,Injection
+Anxiety,Hydroxychloroquine,100 mg,Once daily,Tablet
+Typhoid,Morphine,500 mg,Twice daily,Syrup
+Sinusitis,Diazepam,100 mg,Once daily,Syrup
+Ulcer,Morphine,250 mg,As needed,Tablet
+Bronchitis,Azithromycin,100 mg,Thrice daily,Capsule
+Asthma,Morphine,500 mg,Twice daily,Syrup
+Cholera,Vitamin C,100 mg,Twice daily,Syrup
+Allergy,Azithromycin,250 mg,As needed,Capsule
+Obesity,Salbutamol,100 mg,Once daily,Injection
+Hypertension,Metronidazole,100 mg,Once daily,Capsule
+Obesity,Diazepam,500 mg,Twice daily,Capsule
+Arthritis,Ranitidine,100 mg,Twice daily,Tablet
+Flu,Warfarin,250 mg,As needed,Tablet
+Cancer,Zinc Sulfate,500 mg,Once daily,Tablet
+Tuberculosis,Ranitidine,250 mg,Once daily,Capsule
+Migraine,Omeprazole,500 mg,Twice daily,Syrup
+Tuberculosis,Vitamin C,100 mg,Twice daily,Syrup
+Arthritis,Omeprazole,100 mg,As needed,Syrup
+Cancer,Paracetamol,250 mg,Thrice daily,Injection
+Liver Disease,Chloroquine,250 mg,Once daily,Capsule
+Cholera,Atorvastatin,500 mg,Once daily,Tablet
+Migraine,Omeprazole,250 mg,Thrice daily,Capsule
+Migraine,Ranitidine,100 mg,As needed,Tablet
+Asthma,Atorvastatin,100 mg,As needed,Capsule
+Stroke,Doxycycline,500 mg,Once daily,Capsule
+Ulcer,Diazepam,100 mg,Twice daily,Injection
+Diabetes,Chloroquine,500 mg,As needed,Injection
+Anemia,Insulin,250 mg,Thrice daily,Syrup
+Diarrhea,Ranitidine,500 mg,Twice daily,Injection
+Flu,Losartan,500 mg,Thrice daily,Capsule
+Cholera,Sertraline,250 mg,As needed,Syrup
+Liver Disease,Paracetamol,250 mg,Once daily,Tablet
+Arthritis,Diazepam,500 mg,Twice daily,Capsule
+Bronchitis,Vitamin C,250 mg,Once daily,Tablet
+Malaria,Morphine,500 mg,Once daily,Injection
+Cholera,Aspirin,500 mg,As needed,Injection
+Allergy,Chloroquine,100 mg,As needed,Capsule
+Asthma,Sertraline,100 mg,Twice daily,Capsule
+Insomnia,Diazepam,250 mg,Twice daily,Injection
+HIV/AIDS,Warfarin,250 mg,Twice daily,Tablet
+Cancer,Paracetamol,100 mg,Thrice daily,Injection
+Malaria,Diazepam,250 mg,As needed,Tablet
+Hypertension,Insulin,500 mg,Twice daily,Syrup
+Cholera,Hydroxychloroquine,500 mg,Twice daily,Injection
+Sinusitis,Metformin,500 mg,As needed,Injection
+Anemia,Hydrochlorothiazide,100 mg,As needed,Tablet
+Cancer,Omeprazole,500 mg,As needed,Injection
+Anemia,Warfarin,250 mg,Twice daily,Capsule
+Arthritis,Sertraline,100 mg,Thrice daily,Injection
+Gastritis,Morphine,100 mg,As needed,Tablet
+Malaria,Chloroquine,250 mg,Once daily,Capsule
+Depression,Zinc Sulfate,500 mg,Thrice daily,Syrup
+Depression,Hydroxychloroquine,100 mg,Twice daily,Injection
+Insomnia,Artemether,500 mg,Once daily,Injection
+Liver Disease,Doxycycline,250 mg,Twice daily,Capsule
+Diabetes,Sertraline,100 mg,Twice daily,Capsule
+Anemia,Paracetamol,500 mg,Once daily,Syrup
+Depression,Omeprazole,100 mg,Once daily,Syrup
+HIV/AIDS,Morphine,100 mg,As needed,Syrup
+Epilepsy,Sertraline,100 mg,Once daily,Tablet
+Asthma,Aspirin,100 mg,As needed,Tablet
+HIV/AIDS,Warfarin,250 mg,Twice daily,Syrup
+Ulcer,Hydrochlorothiazide,250 mg,Thrice daily,Syrup
+Gastritis,Omeprazole,250 mg,Once daily,Tablet
+Cancer,Losartan,250 mg,Thrice daily,Syrup
+Tuberculosis,Hydroxychloroquine,250 mg,As needed,Tablet
+Cancer,Aspirin,250 mg,As needed,Tablet
+Obesity,Zinc Sulfate,100 mg,Thrice daily,Tablet
+Stroke,Amoxicillin,500 mg,Once daily,Capsule
+Anxiety,Ibuprofen,500 mg,Thrice daily,Tablet
+Allergy,Chloroquine,250 mg,Once daily,Tablet
+Epilepsy,Artemether,100 mg,Twice daily,Injection
+Typhoid,Omeprazole,100 mg,As needed,Tablet
+Sinusitis,Metronidazole,100 mg,Once daily,Syrup
+Gastritis,Losartan,500 mg,Twice daily,Injection
+Epilepsy,Hydrochlorothiazide,500 mg,Once daily,Injection
+Malaria,Metformin,100 mg,Thrice daily,Syrup
+Gastritis,Hydrochlorothiazide,250 mg,As needed,Tablet
+Cancer,Morphine,100 mg,Once daily,Syrup
+Obesity,Zinc Sulfate,500 mg,Thrice daily,Syrup
+Cholera,Losartan,500 mg,As needed,Syrup
+Ulcer,Chloroquine,250 mg,Twice daily,Syrup
+Allergy,Azithromycin,100 mg,As needed,Syrup
+Migraine,Diazepam,100 mg,Twice daily,Capsule
+Gastritis,Atorvastatin,100 mg,Once daily,Injection
+Asthma,Aspirin,250 mg,Twice daily,Tablet
+Anxiety,Chloroquine,500 mg,Twice daily,Capsule
+Sinusitis,Omeprazole,250 mg,Thrice daily,Syrup
+Flu,Ibuprofen,100 mg,As needed,Capsule
+Epilepsy,Salbutamol,250 mg,Twice daily,Capsule
+Diarrhea,Paracetamol,250 mg,Thrice daily,Capsule
+Sinusitis,Omeprazole,250 mg,As needed,Injection
+COVID-19,Warfarin,500 mg,Twice daily,Tablet
+Typhoid,Artemether,500 mg,Thrice daily,Syrup
+Asthma,Warfarin,100 mg,As needed,Tablet
+Stroke,Prednisone,500 mg,Thrice daily,Tablet
+Diarrhea,Diazepam,250 mg,Thrice daily,Capsule
+Tuberculosis,Chloroquine,500 mg,Twice daily,Capsule
+COVID-19,Aspirin,100 mg,Twice daily,Tablet
+Kidney Disease,Diazepam,500 mg,Once daily,Tablet
+Diarrhea,Insulin,250 mg,Twice daily,Injection
+Tuberculosis,Morphine,100 mg,Thrice daily,Capsule
+Typhoid,Metformin,500 mg,As needed,Tablet
+Kidney Disease,Hydrochlorothiazide,500 mg,Once daily,Capsule
+Insomnia,Amoxicillin,500 mg,As needed,Syrup
+Sinusitis,Diazepam,250 mg,Thrice daily,Syrup
+HIV/AIDS,Ranitidine,500 mg,Thrice daily,Injection
+Cancer,Artemether,100 mg,Once daily,Capsule
+Typhoid,Sertraline,100 mg,Thrice daily,Capsule
+Anxiety,Zinc Sulfate,500 mg,As needed,Injection
+Hypertension,Ciprofloxacin,250 mg,Twice daily,Tablet
+Allergy,Ranitidine,500 mg,Twice daily,Injection
+Sinusitis,Chloroquine,500 mg,Once daily,Injection
+Migraine,Ciprofloxacin,500 mg,As needed,Syrup
+HIV/AIDS,Hydrochlorothiazide,250 mg,Thrice daily,Tablet
+Flu,Metformin,100 mg,As needed,Injection
+Kidney Disease,Ciprofloxacin,500 mg,Thrice daily,Injection
+Diarrhea,Salbutamol,100 mg,Twice daily,Syrup
+Anemia,Sertraline,500 mg,Thrice daily,Injection
+Hypertension,Salbutamol,250 mg,Thrice daily,Syrup
+Bronchitis,Warfarin,500 mg,Thrice daily,Syrup
+Sinusitis,Insulin,100 mg,As needed,Injection
+Obesity,Hydrochlorothiazide,100 mg,Thrice daily,Capsule
+Stroke,Chloroquine,100 mg,Once daily,Injection
+Anxiety,Ciprofloxacin,500 mg,As needed,Injection
+Allergy,Ciprofloxacin,250 mg,Thrice daily,Injection
+HIV/AIDS,Chloroquine,250 mg,Once daily,Capsule
+Tuberculosis,Ranitidine,250 mg,Thrice daily,Capsule
+Kidney Disease,Prednisone,500 mg,Thrice daily,Tablet
+Anxiety,Zinc Sulfate,500 mg,Once daily,Syrup
+Ulcer,Atorvastatin,500 mg,Twice daily,Injection
+Diabetes,Metronidazole,500 mg,As needed,Tablet
+Typhoid,Hydrochlorothiazide,500 mg,As needed,Capsule
+Allergy,Amoxicillin,500 mg,As needed,Injection
+Stroke,Paracetamol,500 mg,Twice daily,Syrup
+Depression,Insulin,250 mg,Once daily,Tablet
+Malaria,Sertraline,100 mg,As needed,Tablet
+Cholera,Chloroquine,250 mg,Once daily,Tablet
+Flu,Chloroquine,250 mg,As needed,Injection
+Pneumonia,Ranitidine,250 mg,Once daily,Syrup
+Obesity,Artemether,250 mg,Twice daily,Capsule
+Malaria,Prednisone,500 mg,As needed,Capsule
+Flu,Ciprofloxacin,500 mg,As needed,Syrup
+Gastritis,Ciprofloxacin,100 mg,Twice daily,Capsule
+Cholera,Losartan,500 mg,Thrice daily,Capsule
+Malaria,Ciprofloxacin,100 mg,Once daily,Injection
+Hypertension,Ibuprofen,250 mg,Once daily,Capsule

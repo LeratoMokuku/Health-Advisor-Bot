@@ -1,0 +1,601 @@
+Condition,Age,Gender
+Migraine,22,Female
+Asthma,68,Female
+Epilepsy,64,Male
+COPD,31,Female
+Obesity,66,Female
+Depression,40,Female
+Heart disease,56,Male
+Chronic kidney disease,25,Female
+Heart disease,7,Female
+Epilepsy,78,Male
+Arthritis,45,Male
+Obesity,53,Female
+Arthritis,40,Female
+Anemia,46,Female
+Arthritis,58,Male
+Heart disease,16,Male
+Epilepsy,34,Male
+Hypertension,23,Female
+Asthma,9,Female
+Heart disease,16,Female
+Chronic kidney disease,18,Female
+Depression,28,Female
+Heart disease,42,Female
+Chronic kidney disease,69,Male
+Arthritis,83,Male
+Migraine,3,Female
+Diabetes,23,Female
+Migraine,32,Female
+Obesity,78,Male
+Chronic kidney disease,26,Female
+Arthritis,59,Female
+Chronic kidney disease,78,Male
+Anemia,7,Female
+Heart disease,12,Female
+Diabetes,72,Male
+COPD,57,Male
+Heart disease,65,Female
+Depression,36,Female
+Chronic kidney disease,30,Male
+Anemia,35,Male
+Hypertension,9,Female
+Asthma,71,Male
+Epilepsy,21,Female
+COPD,62,Female
+COPD,26,Male
+Arthritis,65,Male
+Asthma,57,Male
+Migraine,53,Female
+COPD,85,Female
+Anemia,14,Male
+Diabetes,19,Male
+Anemia,56,Female
+Heart disease,64,Male
+Obesity,74,Female
+Epilepsy,13,Female
+Hypertension,2,Male
+Hypertension,54,Female
+Heart disease,21,Male
+COPD,27,Female
+Anemia,6,Female
+Anemia,62,Female
+Epilepsy,65,Male
+Migraine,24,Female
+Hypertension,85,Female
+Diabetes,45,Male
+Migraine,9,Female
+Chronic kidney disease,76,Female
+Asthma,54,Male
+Diabetes,70,Male
+Asthma,84,Male
+Hypertension,72,Female
+Arthritis,80,Female
+COPD,55,Female
+Depression,81,Male
+Diabetes,3,Female
+Migraine,36,Female
+Heart disease,40,Male
+Depression,7,Male
+Epilepsy,66,Male
+Diabetes,81,Female
+Epilepsy,6,Male
+COPD,61,Female
+Arthritis,36,Male
+Migraine,50,Male
+Hypertension,22,Female
+Asthma,21,Female
+Depression,59,Female
+Depression,88,Female
+Hypertension,83,Female
+Anemia,17,Male
+Hypertension,39,Female
+Asthma,85,Female
+Migraine,23,Female
+COPD,75,Male
+Depression,14,Male
+Anemia,81,Male
+Obesity,64,Female
+Obesity,32,Female
+Arthritis,63,Female
+Diabetes,67,Female
+Depression,73,Female
+COPD,14,Male
+Hypertension,39,Male
+Hypertension,71,Female
+Obesity,35,Male
+Asthma,80,Male
+Chronic kidney disease,40,Male
+Anemia,89,Male
+Obesity,77,Female
+Anemia,31,Male
+Asthma,13,Male
+Epilepsy,49,Female
+Depression,55,Female
+COPD,24,Female
+Epilepsy,88,Female
+Asthma,38,Female
+Epilepsy,2,Male
+COPD,78,Female
+Obesity,71,Female
+Asthma,81,Female
+Heart disease,67,Female
+Obesity,3,Female
+Migraine,67,Female
+Anemia,67,Male
+Heart disease,74,Female
+Chronic kidney disease,8,Male
+Obesity,24,Male
+Anemia,65,Male
+COPD,70,Male
+Obesity,36,Female
+Depression,14,Male
+Migraine,43,Female
+Migraine,68,Female
+Anemia,44,Male
+Diabetes,14,Female
+COPD,86,Male
+Heart disease,30,Female
+Hypertension,73,Female
+Anemia,44,Female
+Hypertension,20,Female
+Diabetes,17,Male
+Migraine,56,Female
+Migraine,88,Female
+Migraine,21,Male
+COPD,57,Male
+Diabetes,40,Male
+COPD,37,Female
+Migraine,65,Female
+COPD,86,Female
+Obesity,42,Male
+Asthma,2,Female
+Diabetes,66,Female
+Diabetes,7,Male
+Arthritis,58,Male
+Diabetes,35,Male
+Diabetes,87,Male
+Arthritis,40,Male
+Depression,36,Male
+Migraine,65,Female
+Chronic kidney disease,25,Male
+Depression,80,Female
+Hypertension,41,Male
+Arthritis,63,Female
+Asthma,68,Female
+Depression,35,Male
+Asthma,81,Male
+Obesity,5,Male
+Chronic kidney disease,8,Female
+Diabetes,65,Female
+Asthma,45,Male
+Chronic kidney disease,89,Female
+Hypertension,63,Male
+Heart disease,50,Female
+Heart disease,61,Female
+COPD,5,Male
+Epilepsy,73,Female
+COPD,16,Male
+Anemia,54,Male
+Hypertension,24,Male
+Heart disease,5,Male
+Hypertension,90,Female
+Heart disease,55,Female
+Heart disease,4,Male
+COPD,47,Male
+Migraine,35,Male
+Epilepsy,19,Female
+Arthritis,10,Male
+Arthritis,21,Male
+Chronic kidney disease,32,Male
+Migraine,46,Male
+Hypertension,4,Female
+Obesity,47,Female
+Heart disease,18,Female
+Heart disease,85,Male
+Epilepsy,72,Male
+COPD,24,Female
+Asthma,46,Female
+Epilepsy,50,Male
+Epilepsy,62,Female
+Migraine,6,Male
+Migraine,89,Male
+Obesity,47,Female
+Migraine,35,Female
+Asthma,65,Male
+Epilepsy,62,Female
+Diabetes,59,Female
+Obesity,53,Male
+Epilepsy,60,Male
+Heart disease,14,Female
+Anemia,36,Male
+Epilepsy,46,Female
+Diabetes,77,Male
+Arthritis,38,Female
+Epilepsy,57,Male
+COPD,24,Male
+Heart disease,17,Male
+COPD,3,Female
+Arthritis,43,Male
+Anemia,25,Female
+Hypertension,26,Female
+Arthritis,76,Male
+Depression,82,Male
+Epilepsy,82,Female
+Obesity,73,Male
+Migraine,47,Female
+Arthritis,28,Male
+Diabetes,30,Female
+Epilepsy,38,Female
+Epilepsy,86,Female
+Heart disease,85,Male
+Chronic kidney disease,14,Male
+Chronic kidney disease,72,Male
+Hypertension,82,Female
+Obesity,75,Female
+Arthritis,52,Female
+COPD,80,Male
+Depression,4,Male
+Migraine,44,Male
+Heart disease,58,Female
+Obesity,53,Male
+Heart disease,44,Female
+Heart disease,41,Male
+Asthma,24,Male
+Migraine,79,Male
+Depression,9,Female
+Hypertension,22,Female
+Obesity,71,Female
+Migraine,5,Female
+Depression,74,Female
+Epilepsy,35,Male
+Asthma,38,Male
+Heart disease,5,Female
+Epilepsy,71,Male
+Anemia,24,Male
+Heart disease,77,Male
+Depression,36,Female
+Hypertension,44,Male
+Migraine,24,Female
+Obesity,52,Female
+Hypertension,15,Male
+Epilepsy,25,Female
+Epilepsy,8,Female
+Anemia,32,Female
+Arthritis,41,Female
+Chronic kidney disease,33,Male
+Asthma,6,Male
+Hypertension,28,Female
+Depression,6,Female
+Asthma,48,Male
+Depression,54,Female
+Epilepsy,10,Female
+Anemia,6,Male
+Asthma,72,Male
+Arthritis,49,Male
+Chronic kidney disease,19,Female
+Chronic kidney disease,31,Female
+Migraine,75,Female
+Depression,74,Female
+Depression,1,Female
+Diabetes,2,Male
+Heart disease,41,Female
+Chronic kidney disease,88,Female
+Chronic kidney disease,58,Female
+Anemia,61,Male
+Chronic kidney disease,19,Male
+Epilepsy,28,Female
+Anemia,56,Female
+Diabetes,56,Male
+Epilepsy,26,Female
+Depression,48,Male
+Heart disease,44,Female
+Arthritis,77,Female
+Chronic kidney disease,77,Male
+Chronic kidney disease,12,Female
+Asthma,26,Male
+Anemia,1,Female
+Asthma,64,Female
+Hypertension,40,Male
+Asthma,65,Female
+Asthma,7,Male
+Depression,59,Female
+Depression,65,Female
+Depression,2,Male
+Depression,69,Female
+Obesity,64,Female
+Obesity,31,Female
+Migraine,12,Female
+Diabetes,64,Male
+Migraine,5,Male
+Arthritis,54,Female
+Epilepsy,23,Male
+Diabetes,35,Male
+Migraine,2,Male
+Arthritis,85,Female
+Anemia,55,Male
+Arthritis,51,Female
+Epilepsy,2,Male
+Epilepsy,72,Female
+Obesity,62,Male
+Arthritis,15,Female
+Depression,60,Male
+Heart disease,38,Male
+Arthritis,26,Female
+Depression,88,Female
+Depression,44,Male
+Asthma,75,Female
+Arthritis,59,Male
+Hypertension,82,Female
+Chronic kidney disease,43,Male
+Chronic kidney disease,21,Female
+Hypertension,28,Female
+Heart disease,74,Male
+Hypertension,26,Female
+Asthma,57,Male
+COPD,51,Female
+Hypertension,73,Female
+Obesity,23,Female
+Asthma,37,Female
+Diabetes,3,Male
+Heart disease,76,Male
+Obesity,27,Male
+Asthma,87,Male
+Asthma,70,Male
+Hypertension,77,Male
+Obesity,89,Female
+Depression,5,Male
+Epilepsy,20,Female
+Obesity,84,Female
+Arthritis,62,Female
+COPD,33,Female
+Diabetes,19,Female
+Hypertension,45,Female
+Obesity,65,Male
+COPD,39,Female
+Arthritis,33,Male
+Chronic kidney disease,43,Male
+Migraine,23,Male
+Chronic kidney disease,77,Male
+Hypertension,53,Male
+Migraine,12,Male
+Asthma,37,Male
+Anemia,31,Male
+COPD,28,Male
+Heart disease,56,Female
+Anemia,33,Female
+COPD,46,Male
+Diabetes,52,Female
+Arthritis,77,Male
+Heart disease,72,Female
+Heart disease,37,Female
+Hypertension,18,Female
+Anemia,64,Female
+Diabetes,49,Male
+Hypertension,28,Female
+Obesity,11,Male
+Migraine,35,Male
+Heart disease,5,Female
+COPD,46,Female
+Diabetes,56,Female
+COPD,80,Male
+Obesity,50,Female
+Chronic kidney disease,57,Male
+Anemia,35,Female
+Chronic kidney disease,2,Male
+Chronic kidney disease,59,Female
+Chronic kidney disease,4,Female
+Asthma,63,Male
+COPD,57,Male
+Hypertension,24,Female
+Diabetes,41,Female
+Heart disease,6,Female
+Epilepsy,58,Female
+Chronic kidney disease,13,Male
+Anemia,65,Male
+Anemia,67,Female
+Asthma,80,Female
+Asthma,36,Male
+Obesity,72,Male
+Heart disease,16,Male
+Anemia,6,Male
+Chronic kidney disease,51,Female
+Heart disease,55,Male
+Heart disease,5,Male
+Chronic kidney disease,48,Male
+Depression,79,Female
+COPD,79,Female
+Migraine,20,Male
+Heart disease,56,Female
+Chronic kidney disease,7,Male
+Diabetes,16,Male
+Hypertension,28,Male
+Migraine,15,Male
+Migraine,29,Male
+Arthritis,86,Male
+Chronic kidney disease,53,Female
+Diabetes,77,Female
+Hypertension,45,Male
+Diabetes,86,Male
+Chronic kidney disease,11,Male
+Diabetes,8,Female
+Epilepsy,10,Female
+Anemia,34,Male
+Obesity,24,Female
+Asthma,20,Male
+Hypertension,81,Female
+Heart disease,40,Female
+Chronic kidney disease,44,Female
+Epilepsy,11,Male
+Chronic kidney disease,70,Male
+Asthma,8,Female
+Heart disease,30,Male
+Diabetes,57,Female
+Anemia,70,Female
+Arthritis,66,Male
+Heart disease,79,Male
+COPD,61,Male
+Anemia,30,Female
+Arthritis,17,Male
+Arthritis,42,Male
+Heart disease,62,Female
+Hypertension,24,Female
+Epilepsy,35,Male
+Hypertension,83,Male
+Diabetes,9,Female
+Hypertension,4,Female
+Chronic kidney disease,17,Female
+Depression,70,Female
+Diabetes,15,Female
+COPD,57,Male
+COPD,6,Female
+Migraine,3,Male
+Chronic kidney disease,28,Male
+Diabetes,65,Female
+Chronic kidney disease,77,Male
+Chronic kidney disease,14,Female
+Arthritis,89,Female
+Asthma,27,Female
+Asthma,65,Male
+Arthritis,85,Male
+Hypertension,88,Female
+Depression,22,Female
+Epilepsy,6,Male
+Heart disease,73,Female
+Asthma,67,Female
+Heart disease,63,Female
+Arthritis,19,Male
+Hypertension,42,Male
+Depression,84,Male
+Arthritis,74,Male
+Migraine,75,Male
+Anemia,53,Male
+Anemia,70,Male
+Chronic kidney disease,65,Female
+Migraine,69,Male
+Depression,66,Female
+Anemia,6,Male
+Hypertension,78,Male
+Heart disease,42,Male
+Chronic kidney disease,45,Female
+COPD,78,Male
+Arthritis,20,Male
+Obesity,26,Female
+Anemia,34,Female
+COPD,64,Female
+COPD,53,Female
+Diabetes,48,Male
+Chronic kidney disease,42,Male
+Depression,4,Female
+Hypertension,5,Male
+Diabetes,34,Female
+Hypertension,68,Female
+Anemia,35,Male
+COPD,16,Female
+Epilepsy,70,Male
+Heart disease,45,Male
+Migraine,37,Male
+Depression,1,Male
+Epilepsy,55,Male
+Obesity,78,Female
+Chronic kidney disease,77,Female
+Anemia,32,Male
+Asthma,6,Female
+Obesity,16,Female
+Hypertension,85,Male
+Hypertension,16,Female
+Depression,15,Male
+Anemia,40,Female
+Chronic kidney disease,62,Female
+Heart disease,12,Male
+Migraine,58,Male
+Obesity,85,Female
+Epilepsy,27,Female
+Chronic kidney disease,25,Female
+Depression,49,Female
+Diabetes,83,Female
+Obesity,77,Male
+Epilepsy,2,Male
+Heart disease,14,Female
+COPD,24,Female
+Asthma,62,Male
+Chronic kidney disease,13,Female
+Anemia,41,Male
+Epilepsy,61,Female
+Heart disease,85,Female
+Depression,21,Male
+Hypertension,71,Female
+Epilepsy,8,Female
+Arthritis,15,Female
+Asthma,49,Female
+COPD,15,Female
+Epilepsy,46,Female
+Obesity,70,Male
+Heart disease,55,Male
+Asthma,27,Female
+Obesity,19,Female
+Hypertension,54,Male
+Arthritis,74,Male
+COPD,42,Male
+Migraine,85,Female
+Obesity,33,Male
+Epilepsy,70,Male
+Anemia,4,Male
+Heart disease,18,Male
+Migraine,40,Male
+Anemia,44,Male
+COPD,35,Female
+Obesity,58,Male
+Heart disease,64,Male
+Asthma,81,Male
+Diabetes,9,Female
+Anemia,90,Male
+Hypertension,27,Male
+Depression,66,Female
+Chronic kidney disease,11,Female
+Depression,86,Female
+Arthritis,83,Male
+Asthma,88,Male
+Anemia,42,Female
+COPD,70,Female
+Epilepsy,78,Female
+Heart disease,23,Male
+Obesity,31,Male
+COPD,5,Female
+Heart disease,82,Female
+Anemia,5,Male
+Diabetes,86,Male
+Migraine,57,Male
+Anemia,31,Female
+Epilepsy,4,Female
+Diabetes,74,Female
+Epilepsy,81,Female
+Anemia,79,Male
+Asthma,30,Female
+Migraine,15,Male
+Migraine,89,Male
+Chronic kidney disease,23,Male
+Hypertension,27,Female
+Heart disease,89,Female
+Chronic kidney disease,10,Male
+Diabetes,5,Male
+Anemia,4,Female
+Heart disease,26,Female
+Heart disease,10,Male
+Hypertension,86,Female
+Migraine,83,Female
+Heart disease,10,Female
+Epilepsy,14,Female
+Hypertension,32,Female
+Depression,55,Male
+Migraine,25,Female
+Chronic kidney disease,83,Male
+Heart disease,86,Female
+Arthritis,29,Male
+Chronic kidney disease,11,Female
+COPD,23,Male
+Epilepsy,43,Female
+Anemia,60,Female
+Hypertension,73,Female
+Migraine,79,Female
+Hypertension,5,Female

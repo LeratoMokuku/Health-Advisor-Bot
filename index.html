@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Health Advisor Bot</title>
+<style>
+  body{margin:0;font-family:'Poppins',sans-serif;background:linear-gradient(135deg,#7e57c2,#ec407a,#42a5f5);background-size:400% 400%;animation:g 10s ease infinite;display:flex;flex-direction:column;align-items:center;height:100vh;color:#fff;}
+  @keyframes g{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+  .chat-container{background:rgba(255,255,255,.1);backdrop-filter:blur(10px);border-radius:20px;box-shadow:0 0 30px rgba(0,0,0,.2);width:90%;max-width:700px;height:85vh;display:flex;flex-direction:column;overflow:hidden;margin-top:20px;}
+  .chat-header{text-align:center;padding:15px;font-size:1.4em;font-weight:600;background:rgba(255,255,255,.15);}
+  .chat-messages{flex:1;padding:15px;overflow-y:auto;display:flex;flex-direction:column;}
+  .message{margin:8px 0;padding:0;border-radius:12px;max-width:90%;word-wrap:break-word;}
+  .user-message{align-self:flex-end;background:#7e57c2;padding:12px 18px;}
+  .bot-message{align-self:flex-start;background:transparent;padding:0;}
+  .input-area{display:flex;padding:15px;background:rgba(255,255,255,.15);align-items:center;}
+  input{flex:1;padding:12px 18px;border:none;border-radius:25px;outline:none;font-size:1em;margin-right:10px;background:rgba(255,255,255,0.9);color:#333;}
+  button{padding:12px 20px;border:none;border-radius:25px;background:#ec407a;color:#fff;font-weight:bold;cursor:pointer;transition:background 0.3s;}
+  button:hover{background:#d81b60;}
+  .hidden{display:none;}
+
+  /* Beautiful Results Styling */
+  .assessment-header {background:linear-gradient(135deg,#667eea,#764ba2);padding:20px;border-radius:12px;margin-bottom:15px;}
+  .main-title {font-size:1.3em;font-weight:bold;margin-bottom:10px;text-align:center;}
+  .symptoms {font-size:1em;margin-bottom:8px;text-align:center;}
+  .symptom-text {font-weight:bold;color:#ffeb3b;}
+  .patient-info {font-size:0.9em;opacity:0.9;text-align:center;margin-bottom:10px;}
+  .recommendations-title {font-size:1.1em;font-weight:bold;text-align:center;margin-top:10px;}
+
+  .diagnoses-wrapper {display:flex;flex-direction:column;gap:15px;}
+  .diagnosis-container {background:rgba(255,255,255,0.95);border-radius:12px;padding:20px;color:#333;box-shadow:0 4px 15px rgba(0,0,0,0.1);}
+  .diagnosis-title {font-size:1.2em;font-weight:bold;margin-bottom:15px;padding-bottom:10px;border-bottom:2px solid #e0e0e0;color:#2c3e50;}
+  .condition-name {color:#e74c3c;}
+
+  .recommendation-section {margin:15px 0;}
+  .section-title {font-weight:bold;margin-bottom:8px;font-size:1em;color:#2c3e50;display:flex;align-items:center;gap:8px;}
+  .item-list {background:rgba(236, 240, 241, 0.5);padding:12px;border-radius:8px;font-size:0.95em;line-height:1.5;color:#34495e;}
+
+  .no-results {background:rgba(255,255,255,0.95);color:#e74c3c;padding:20px;border-radius:12px;text-align:center;font-weight:bold;}
+
+  .footer {margin-top:20px;padding:15px;background:rgba(255,255,255,0.1);border-radius:12px;text-align:center;}
+  .footer-note {font-size:0.9em;margin-bottom:10px;opacity:0.9;}
+  .continue-prompt {font-size:0.95em;font-style:italic;}
+
+  /* Scrollbar styling */
+  .chat-messages::-webkit-scrollbar {width:6px;}
+  .chat-messages::-webkit-scrollbar-track {background:rgba(255,255,255,0.1);border-radius:3px;}
+  .chat-messages::-webkit-scrollbar-thumb {background:rgba(255,255,255,0.3);border-radius:3px;}
+  .chat-messages::-webkit-scrollbar-thumb:hover {background:rgba(255,255,255,0.5);}
+</style>
+</head>
+<body>
+<div class="chat-container">
+  <div class="chat-header">Health Advisor Bot</div>
+  <div class="chat-messages" id="chat"></div>
+  <div class="input-area" id="inputArea">
+    <input id="inp" type="text" placeholder="Type here..." autofocus>
+    <button id="send">Send</button>
+  </div>
+</div>
+
+<script>
+const chat = document.getElementById('chat');
+const area = document.getElementById('inputArea');
+const inp  = document.getElementById('inp');
+const send = document.getElementById('send');
+
+let userInfo = {name:'',age:'',gender:''};
+let hasUserInfo = false;
+
+function msg(t, type='bot'){
+  const d = document.createElement('div');
+  d.className = `message ${type}-message`;
+  d.innerHTML = t;
+  chat.appendChild(d);
+  chat.scrollTop = chat.scrollHeight;
+}
+
+function show(p='Type here...'){ 
+  inp.placeholder=p; 
+  inp.value=''; 
+  area.classList.remove('hidden'); 
+  inp.focus(); 
+}
+
+function hide(){ 
+  area.classList.add('hidden'); 
+}
+
+async function sendMsg(){
+  const txt = inp.value.trim(); 
+  if(!txt) return;
+  
+  msg(txt,'user'); 
+  hide();
+
+  if(!hasUserInfo) {
+    // First time - collect user info
+    if(!userInfo.name) {
+      if(txt.toLowerCase() === 'skip') {
+        userInfo.name = '';
+      } else {
+        userInfo.name = txt;
+      }
+      msg("Thanks" + (userInfo.name ? ', ' + userInfo.name : '') + "!<br><b>How old are you?</b> ");
+      show("Age");
+      return;
+    }
+    
+    if(!userInfo.age) {
+      if(txt.toLowerCase() === 'skip') {
+        userInfo.age = '';
+      } else if(!isNaN(txt)) {
+        userInfo.age = txt;
+      } else {
+        msg("Please enter a number "); 
+        show("Age");
+        return;
+      }
+      msg("Got it.<br><b>Gender?</b> (Male / Female)");
+      show("Gender");
+      return;
+    }
+    
+    if(!userInfo.gender) {
+      const g = txt.toLowerCase();
+      if(['male','female','other','skip'].includes(g)) {
+        userInfo.gender = g === 'skip' ? '' : g.charAt(0).toUpperCase() + g.slice(1);
+        hasUserInfo = true;
+        msg("Thank you! Your information has been saved.<br><br><b>Please describe your symptoms.</b><br>(e.g. headache, fever, cough)");
+        show("Describe your symptoms...");
+      } else {
+        msg("Please choose: Male, Female"); 
+        show("Gender");
+      }
+      return;
+    }
+  } else {
+    // User has already provided info - just process symptoms
+    await analyzeSymptoms(txt);
+  }
+}
+
+async function analyzeSymptoms(symptoms) {
+  msg("<div style='text-align:center;padding:10px;'>🔍 Analyzing your symptoms...</div>");
+  try {
+    const response = await fetch('/predict', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({
+        message: symptoms,
+        age: userInfo.age,
+        gender: userInfo.gender
+      })
+    });
+    
+    const data = await response.json();
+    msg(data.english);
+    
+    // Show continuation prompt
+    setTimeout(() => {
+      msg("<div style='text-align:center;padding:10px;font-style:italic;'>💬 You can describe more symptoms or ask questions...</div>");
+      show("Describe symptoms or ask questions...");
+    }, 500);
+    
+  } catch(e) {
+    msg("<div style='color:#e74c3c;text-align:center;padding:10px;'>❌ Error analyzing symptoms. Please try again.</div>");
+    show("Describe symptoms...");
+  }
+}
+
+// Start the conversation
+window.addEventListener('load', () => {
+  msg("<div style='text-align:center;'><b>👋 Welcome to Health Advisor!</b><br>I'll help assess your symptoms and provide recommendations.<br><br>First, let me get some basic information.<br><br><b>What is your name?</b></div>");
+  show("Name");
+});
+
+send.addEventListener('click', sendMsg);
+inp.addEventListener('keydown', e => {
+  if(e.key === 'Enter') {
+    e.preventDefault();
+    sendMsg();
+  }
+});
+</script>
+</body>
+</html>

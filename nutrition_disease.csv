@@ -1,0 +1,301 @@
+Disease,Recommended_Food,Avoid_Food,Meal_Frequency,Hydration
+Asthma,Cucumber,Cookies,3 meals/day,3L/day
+HIV/AIDS,Spinach,Cream,3 meals/day,2L/day
+Allergy,Garlic,Cheese,5 small meals/day,2.5L/day
+Obesity,Oranges,Alcohol,5 small meals/day,2.5L/day
+Cancer,Avocado,Soda,3 meals/day,3L/day
+Asthma,Fish,Sugar,3 meals/day,3L/day
+Kidney Disease,Ginger,Fast Food,5 small meals/day,3L/day
+Migraine,Sweet Potato,Pizza,2 meals/day,3L/day
+Malaria,Eggs,Pizza,2 meals/day,2.5L/day
+Bronchitis,Ginger,Processed Foods,5 small meals/day,2L/day
+Allergy,Tomato,Chocolate,2 meals/day,2.5L/day
+Arthritis,Oats,Sugar,3 meals/day,3L/day
+Kidney Disease,Spinach,Chips,5 small meals/day,3L/day
+Tuberculosis,Broccoli,Salt,5 small meals/day,2.5L/day
+Gout,Beans,Soda,5 small meals/day,2L/day
+Allergy,Green Tea,Sugar,3 meals/day,2.5L/day
+Asthma,Apple,Butter,3 meals/day,3L/day
+Tuberculosis,Eggs,Sugar,2 meals/day,2.5L/day
+Allergy,Garlic,Processed Foods,2 meals/day,2.5L/day
+Typhoid,Eggs,Cookies,2 meals/day,3L/day
+Arthritis,Yogurt,Pork,5 small meals/day,3L/day
+Cancer,Green Tea,Chocolate,3 meals/day,2L/day
+Liver Disease,Fish,Pork,5 small meals/day,2.5L/day
+HIV/AIDS,Tomato,Salt,2 meals/day,2L/day
+Gastritis,Yogurt,Alcohol,3 meals/day,2L/day
+HIV/AIDS,Banana,Bacon,3 meals/day,2.5L/day
+Arthritis,Yogurt,Pork,5 small meals/day,2L/day
+Stroke,Fish,Pizza,5 small meals/day,2L/day
+Migraine,Apple,Pizza,2 meals/day,3L/day
+Bronchitis,Eggs,Soda,3 meals/day,2.5L/day
+Malaria,Tomato,Pork,5 small meals/day,2L/day
+Migraine,Brown Rice,Pork,5 small meals/day,3L/day
+Obesity,Apple,Sugar,5 small meals/day,2L/day
+Flu,Nuts,Bacon,3 meals/day,2.5L/day
+HIV/AIDS,Nuts,White Bread,5 small meals/day,3L/day
+HIV/AIDS,Eggs,Caffeine,3 meals/day,2.5L/day
+Allergy,Apple,Soda,2 meals/day,3L/day
+Cholera,Tomato,Soda,3 meals/day,2L/day
+Stroke,Garlic,Fast Food,3 meals/day,2L/day
+COVID-19,Spinach,Butter,5 small meals/day,2.5L/day
+Stroke,Spinach,Fried Food,5 small meals/day,2.5L/day
+Bronchitis,Carrots,Butter,5 small meals/day,2.5L/day
+Ulcer,Nuts,White Bread,2 meals/day,2L/day
+COVID-19,Yogurt,Fast Food,2 meals/day,2.5L/day
+Epilepsy,Eggs,Sugar,5 small meals/day,2.5L/day
+Anxiety,Oranges,Cream,3 meals/day,3L/day
+Depression,Garlic,Chips,3 meals/day,2.5L/day
+Gastritis,Nuts,Cheese,5 small meals/day,3L/day
+Allergy,Apple,Soda,5 small meals/day,2.5L/day
+Hypertension,Brown Rice,Butter,2 meals/day,2.5L/day
+Migraine,Ginger,Processed Foods,2 meals/day,3L/day
+Tuberculosis,Beans,Alcohol,5 small meals/day,3L/day
+Gastritis,Brown Rice,Pizza,3 meals/day,2.5L/day
+Tuberculosis,Banana,Sugar,3 meals/day,2L/day
+Typhoid,Green Tea,Caffeine,5 small meals/day,2L/day
+Obesity,Eggs,Red Meat,5 small meals/day,2L/day
+Kidney Disease,Brown Rice,Ice Cream,3 meals/day,2L/day
+Sinusitis,Oats,Processed Foods,5 small meals/day,3L/day
+Tuberculosis,Fish,Bacon,5 small meals/day,3L/day
+Depression,Yogurt,Butter,5 small meals/day,2.5L/day
+Diabetes,Broccoli,Fast Food,3 meals/day,2L/day
+Diabetes,Tomato,Fast Food,5 small meals/day,2L/day
+Sinusitis,Eggs,Chips,2 meals/day,3L/day
+Kidney Disease,Carrots,Salt,3 meals/day,3L/day
+Cholera,Avocado,Cream,3 meals/day,2L/day
+Arthritis,Broccoli,Sugar,2 meals/day,2.5L/day
+Obesity,Sweet Potato,Butter,5 small meals/day,3L/day
+Kidney Disease,Sweet Potato,Ice Cream,5 small meals/day,2.5L/day
+Cancer,Spinach,Cheese,5 small meals/day,2.5L/day
+Depression,Fish,Processed Foods,5 small meals/day,2L/day
+Stroke,Oats,Red Meat,2 meals/day,2.5L/day
+Pneumonia,Carrots,Pizza,5 small meals/day,2L/day
+Diabetes,Tomato,Pizza,5 small meals/day,2.5L/day
+Typhoid,Sweet Potato,Cookies,3 meals/day,3L/day
+Depression,Cucumber,Cheese,3 meals/day,2.5L/day
+Depression,Apple,Pork,5 small meals/day,2L/day
+Allergy,Eggs,Fried Food,3 meals/day,2.5L/day
+Pneumonia,Broccoli,Processed Foods,5 small meals/day,3L/day
+Tuberculosis,Eggs,Ice Cream,3 meals/day,2.5L/day
+Obesity,Carrots,Chips,2 meals/day,3L/day
+Depression,Spinach,Chocolate,5 small meals/day,3L/day
+Bronchitis,Yogurt,Sugar,5 small meals/day,2.5L/day
+Cholera,Tomato,Fast Food,3 meals/day,3L/day
+Sinusitis,Banana,Pizza,3 meals/day,3L/day
+Kidney Disease,Cucumber,Pizza,5 small meals/day,2L/day
+Gastritis,Oranges,Pork,2 meals/day,2.5L/day
+Typhoid,Eggs,Fast Food,3 meals/day,2.5L/day
+Cholera,Eggs,Bacon,2 meals/day,3L/day
+Cholera,Brown Rice,Fast Food,2 meals/day,2.5L/day
+Cancer,Nuts,Sugar,3 meals/day,3L/day
+Bronchitis,Sweet Potato,Processed Foods,3 meals/day,2.5L/day
+Allergy,Beans,Soda,3 meals/day,3L/day
+Migraine,Oranges,Red Meat,2 meals/day,3L/day
+Pneumonia,Yogurt,Soda,5 small meals/day,2.5L/day
+Cholera,Beans,Butter,3 meals/day,2L/day
+Asthma,Nuts,Cream,5 small meals/day,2.5L/day
+Anemia,Sweet Potato,Chocolate,2 meals/day,2.5L/day
+COVID-19,Carrots,Fast Food,5 small meals/day,2L/day
+Asthma,Beans,Caffeine,5 small meals/day,3L/day
+Flu,Apple,Bacon,3 meals/day,2L/day
+Anemia,Broccoli,Cheese,5 small meals/day,2.5L/day
+Liver Disease,Sweet Potato,Cheese,5 small meals/day,3L/day
+Arthritis,Oats,Red Meat,2 meals/day,2L/day
+Anxiety,Sweet Potato,Cream,3 meals/day,3L/day
+Gastritis,Spinach,Salt,3 meals/day,2L/day
+Epilepsy,Beans,Fast Food,3 meals/day,3L/day
+Migraine,Fish,Ice Cream,3 meals/day,2.5L/day
+Cancer,Ginger,Ice Cream,3 meals/day,2.5L/day
+Insomnia,Sweet Potato,Bacon,3 meals/day,3L/day
+Gout,Beans,Pizza,5 small meals/day,2.5L/day
+Tuberculosis,Carrots,Bacon,3 meals/day,2.5L/day
+Cholera,Ginger,Alcohol,2 meals/day,2L/day
+Cholera,Broccoli,Cheese,3 meals/day,2L/day
+COVID-19,Spinach,Butter,3 meals/day,2L/day
+Gout,Spinach,Fast Food,5 small meals/day,2.5L/day
+Diabetes,Green Tea,White Bread,5 small meals/day,2L/day
+Stroke,Eggs,Salt,2 meals/day,3L/day
+Obesity,Cucumber,Processed Foods,3 meals/day,2.5L/day
+HIV/AIDS,Brown Rice,Pork,3 meals/day,2.5L/day
+Cancer,Banana,Ice Cream,3 meals/day,2L/day
+Pneumonia,Brown Rice,Butter,3 meals/day,2L/day
+Migraine,Green Tea,Fried Food,2 meals/day,3L/day
+Cholera,Yogurt,Cream,3 meals/day,3L/day
+Cholera,Beans,Ice Cream,5 small meals/day,3L/day
+Malaria,Tomato,Chips,3 meals/day,2.5L/day
+Depression,Banana,Butter,3 meals/day,2L/day
+Diarrhea,Banana,Salt,5 small meals/day,2L/day
+Ulcer,Garlic,Caffeine,3 meals/day,2L/day
+Liver Disease,Beans,Processed Foods,5 small meals/day,3L/day
+Cancer,Apple,Fried Food,3 meals/day,3L/day
+Allergy,Nuts,Cream,5 small meals/day,3L/day
+Cholera,Oats,Pizza,2 meals/day,2.5L/day
+Allergy,Oranges,Bacon,3 meals/day,2L/day
+Pneumonia,Garlic,Ice Cream,3 meals/day,3L/day
+Anxiety,Banana,Alcohol,3 meals/day,3L/day
+Sinusitis,Tomato,Chips,5 small meals/day,2L/day
+Stroke,Avocado,Salt,3 meals/day,2.5L/day
+Gastritis,Tomato,Fast Food,5 small meals/day,2L/day
+Asthma,Eggs,Cream,2 meals/day,3L/day
+Diabetes,Garlic,Sugar,5 small meals/day,2.5L/day
+Anxiety,Fish,Fast Food,2 meals/day,2.5L/day
+Kidney Disease,Tomato,Fried Food,2 meals/day,3L/day
+Flu,Tomato,Fast Food,3 meals/day,3L/day
+Migraine,Beans,Salt,3 meals/day,2.5L/day
+Diarrhea,Tomato,Sugar,5 small meals/day,2L/day
+Pneumonia,Eggs,Fried Food,5 small meals/day,2.5L/day
+Gout,Fish,Caffeine,5 small meals/day,2L/day
+Asthma,Yogurt,Cheese,2 meals/day,3L/day
+Depression,Beans,Fast Food,2 meals/day,2L/day
+Sinusitis,Oranges,Soda,5 small meals/day,2.5L/day
+Depression,Apple,Chips,5 small meals/day,3L/day
+Bronchitis,Sweet Potato,Alcohol,3 meals/day,2.5L/day
+Stroke,Avocado,Red Meat,3 meals/day,2.5L/day
+Cancer,Oranges,Butter,2 meals/day,3L/day
+Anemia,Cucumber,Pork,2 meals/day,3L/day
+Typhoid,Spinach,Red Meat,3 meals/day,2L/day
+Typhoid,Green Tea,Bacon,3 meals/day,3L/day
+Hypertension,Banana,Chocolate,5 small meals/day,2.5L/day
+Kidney Disease,Cucumber,White Bread,3 meals/day,3L/day
+Malaria,Fish,Pizza,3 meals/day,3L/day
+Gout,Nuts,Cookies,5 small meals/day,2.5L/day
+Tuberculosis,Avocado,Soda,5 small meals/day,2L/day
+Obesity,Eggs,Sugar,5 small meals/day,2L/day
+Ulcer,Ginger,Pizza,5 small meals/day,2L/day
+Obesity,Green Tea,Caffeine,3 meals/day,2L/day
+Insomnia,Avocado,Fried Food,3 meals/day,3L/day
+Cholera,Brown Rice,Chocolate,2 meals/day,2.5L/day
+Liver Disease,Nuts,Chocolate,3 meals/day,2.5L/day
+Liver Disease,Spinach,Pork,3 meals/day,2.5L/day
+Malaria,Cucumber,Salt,2 meals/day,2L/day
+Depression,Apple,Chips,3 meals/day,2.5L/day
+Depression,Beans,Cookies,3 meals/day,2L/day
+Allergy,Garlic,Cookies,2 meals/day,3L/day
+HIV/AIDS,Oranges,Butter,3 meals/day,3L/day
+Flu,Oats,Caffeine,3 meals/day,3L/day
+Depression,Yogurt,Bacon,2 meals/day,2L/day
+Depression,Green Tea,Fast Food,3 meals/day,2.5L/day
+Gout,Broccoli,Red Meat,3 meals/day,2L/day
+Pneumonia,Banana,Cheese,5 small meals/day,3L/day
+Tuberculosis,Garlic,Caffeine,2 meals/day,2.5L/day
+Tuberculosis,Beans,Caffeine,2 meals/day,3L/day
+Cholera,Oranges,Soda,5 small meals/day,2L/day
+Cholera,Avocado,Pizza,2 meals/day,2.5L/day
+Insomnia,Banana,Processed Foods,2 meals/day,2.5L/day
+Asthma,Brown Rice,Salt,5 small meals/day,2L/day
+Diabetes,Garlic,Cookies,5 small meals/day,2L/day
+COVID-19,Yogurt,Caffeine,5 small meals/day,2L/day
+Stroke,Oats,Pizza,2 meals/day,3L/day
+Sinusitis,Yogurt,Fast Food,2 meals/day,2.5L/day
+Malaria,Oranges,Fast Food,5 small meals/day,2.5L/day
+Cancer,Banana,Pizza,3 meals/day,2L/day
+Gout,Carrots,Fried Food,2 meals/day,2.5L/day
+Sinusitis,Brown Rice,Caffeine,3 meals/day,3L/day
+Diabetes,Oats,White Bread,5 small meals/day,2.5L/day
+Tuberculosis,Carrots,Caffeine,2 meals/day,2L/day
+Bronchitis,Green Tea,Fried Food,3 meals/day,3L/day
+Migraine,Spinach,Red Meat,2 meals/day,3L/day
+Arthritis,Ginger,Salt,3 meals/day,3L/day
+Pneumonia,Avocado,Cream,3 meals/day,3L/day
+HIV/AIDS,Nuts,Fast Food,3 meals/day,2.5L/day
+COVID-19,Beans,Ice Cream,3 meals/day,2.5L/day
+Sinusitis,Eggs,Cream,2 meals/day,3L/day
+Kidney Disease,Carrots,Chocolate,5 small meals/day,2L/day
+Sinusitis,Tomato,Soda,5 small meals/day,2.5L/day
+Epilepsy,Sweet Potato,Processed Foods,5 small meals/day,2L/day
+Cancer,Eggs,Soda,2 meals/day,3L/day
+Sinusitis,Ginger,Fried Food,2 meals/day,3L/day
+Depression,Ginger,Soda,5 small meals/day,2L/day
+Flu,Tomato,Cheese,5 small meals/day,3L/day
+Tuberculosis,Banana,Fast Food,3 meals/day,2.5L/day
+Stroke,Nuts,Ice Cream,3 meals/day,2L/day
+Typhoid,Tomato,Pizza,5 small meals/day,2.5L/day
+Insomnia,Broccoli,Pizza,3 meals/day,2L/day
+Bronchitis,Broccoli,Butter,2 meals/day,2L/day
+Cancer,Oranges,White Bread,2 meals/day,3L/day
+Asthma,Brown Rice,Cookies,5 small meals/day,2L/day
+Gastritis,Tomato,Salt,2 meals/day,2.5L/day
+Cancer,Apple,Pizza,5 small meals/day,2L/day
+Sinusitis,Banana,Alcohol,3 meals/day,2L/day
+Diarrhea,Nuts,Salt,3 meals/day,3L/day
+Insomnia,Nuts,Chocolate,5 small meals/day,2.5L/day
+Typhoid,Banana,White Bread,3 meals/day,2.5L/day
+Insomnia,Eggs,Soda,2 meals/day,3L/day
+Liver Disease,Carrots,Red Meat,5 small meals/day,3L/day
+Diabetes,Garlic,Soda,5 small meals/day,3L/day
+Asthma,Brown Rice,Alcohol,2 meals/day,2L/day
+COVID-19,Nuts,Pizza,3 meals/day,2.5L/day
+Cholera,Spinach,Butter,2 meals/day,2L/day
+Hypertension,Spinach,Soda,5 small meals/day,2.5L/day
+Gout,Sweet Potato,Butter,2 meals/day,2L/day
+Obesity,Nuts,Alcohol,5 small meals/day,3L/day
+Arthritis,Tomato,Cheese,2 meals/day,2.5L/day
+Gout,Oats,Sugar,3 meals/day,2.5L/day
+Gout,Cucumber,Butter,3 meals/day,2L/day
+Gout,Cucumber,Soda,3 meals/day,3L/day
+Anxiety,Nuts,Chips,2 meals/day,3L/day
+Depression,Banana,Fried Food,5 small meals/day,2.5L/day
+Gout,Garlic,Caffeine,3 meals/day,3L/day
+Arthritis,Eggs,Pizza,3 meals/day,3L/day
+Depression,Fish,Caffeine,2 meals/day,2L/day
+Arthritis,Cucumber,Cheese,5 small meals/day,2L/day
+Diarrhea,Brown Rice,Soda,3 meals/day,3L/day
+Ulcer,Spinach,Fast Food,3 meals/day,3L/day
+Asthma,Ginger,Red Meat,2 meals/day,2L/day
+Depression,Brown Rice,Cream,3 meals/day,2.5L/day
+Kidney Disease,Banana,Cream,5 small meals/day,2L/day
+Anxiety,Nuts,Soda,5 small meals/day,3L/day
+Insomnia,Apple,Caffeine,3 meals/day,2L/day
+Bronchitis,Carrots,Cream,5 small meals/day,2L/day
+Anemia,Ginger,Cream,5 small meals/day,2L/day
+Bronchitis,Fish,Fast Food,5 small meals/day,2.5L/day
+Migraine,Oats,Red Meat,3 meals/day,2L/day
+Flu,Yogurt,Caffeine,2 meals/day,2L/day
+Diabetes,Carrots,White Bread,2 meals/day,2.5L/day
+Ulcer,Tomato,Chips,2 meals/day,3L/day
+Anemia,Beans,Butter,3 meals/day,2L/day
+Gastritis,Nuts,Caffeine,3 meals/day,3L/day
+Arthritis,Carrots,Ice Cream,3 meals/day,2L/day
+Kidney Disease,Fish,Soda,2 meals/day,2L/day
+Epilepsy,Brown Rice,Cream,2 meals/day,2.5L/day
+Hypertension,Tomato,Salt,2 meals/day,2L/day
+Kidney Disease,Fish,Soda,5 small meals/day,3L/day
+Migraine,Apple,White Bread,3 meals/day,2.5L/day
+Diarrhea,Banana,Soda,3 meals/day,3L/day
+Arthritis,Brown Rice,Bacon,2 meals/day,2L/day
+Tuberculosis,Beans,Red Meat,3 meals/day,3L/day
+Flu,Oats,Processed Foods,5 small meals/day,2L/day
+Arthritis,Tomato,Ice Cream,3 meals/day,2.5L/day
+Cholera,Green Tea,Red Meat,2 meals/day,3L/day
+Typhoid,Green Tea,Cookies,3 meals/day,2.5L/day
+Epilepsy,Ginger,Caffeine,5 small meals/day,2.5L/day
+Ulcer,Carrots,Butter,3 meals/day,2L/day
+Diabetes,Beans,Chocolate,2 meals/day,2L/day
+Bronchitis,Cucumber,Sugar,5 small meals/day,3L/day
+Gastritis,Cucumber,Ice Cream,2 meals/day,2L/day
+Liver Disease,Oats,Ice Cream,5 small meals/day,2.5L/day
+Hypertension,Green Tea,White Bread,3 meals/day,2L/day
+Malaria,Broccoli,Fried Food,2 meals/day,2L/day
+Obesity,Carrots,Butter,5 small meals/day,2.5L/day
+Diarrhea,Broccoli,Fast Food,5 small meals/day,2L/day
+HIV/AIDS,Sweet Potato,Cheese,5 small meals/day,3L/day
+Kidney Disease,Spinach,Processed Foods,3 meals/day,3L/day
+Obesity,Green Tea,Pork,5 small meals/day,2L/day
+Obesity,Tomato,Cream,3 meals/day,2.5L/day
+Depression,Eggs,Butter,2 meals/day,3L/day
+Anxiety,Ginger,Soda,2 meals/day,3L/day
+Pneumonia,Green Tea,Chips,2 meals/day,2L/day
+Tuberculosis,Eggs,Cookies,2 meals/day,3L/day
+Allergy,Banana,Cookies,3 meals/day,3L/day
+Hypertension,Avocado,Cookies,5 small meals/day,2.5L/day
+Arthritis,Broccoli,White Bread,3 meals/day,2.5L/day
+Asthma,Carrots,Pork,5 small meals/day,3L/day
+Diarrhea,Cucumber,Cheese,3 meals/day,2.5L/day
+Allergy,Carrots,Alcohol,3 meals/day,2.5L/day
+Epilepsy,Yogurt,Fried Food,2 meals/day,3L/day
+Asthma,Brown Rice,Pizza,5 small meals/day,3L/day
+Depression,Broccoli,Chips,3 meals/day,2.5L/day
+Anxiety,Yogurt,Chocolate,2 meals/day,2.5L/day
+Gout,Fish,Pork,3 meals/day,2.5L/day
+Stroke,Carrots,Soda,5 small meals/day,3L/day
